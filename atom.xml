@@ -439,7 +439,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;在我此前多篇博文中均提及了 &lt;a href=&quot;https://brew.sh/index_zh-cn&quot; target=&quot;_blank&quot; rel=&quot;external nofollow noopener noreferrer&quot;&gt;Homebrew&lt;/a&gt;，官方自定义为「macOS 缺失的软件包的管理器」, 作为一个开源项目，同样可以在 Github 上找到它的 &lt;a href=&quot;https://github.com/Homebrew/brew&quot; target=&quot;_blank&quot; rel=&quot;external nofollow noopener noreferrer&quot;&gt;项目文档&lt;/a&gt;。&lt;/p&gt;
+      &lt;p&gt;在我此前多篇博文中均提及了 &lt;a href=&quot;https://brew.sh/index_zh-cn&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Homebrew&lt;/a&gt;，官方自定义为「macOS 缺失的软件包的管理器」, 作为一个开源项目，同样可以在 Github 上找到它的 &lt;a href=&quot;https://github.com/Homebrew/brew&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;项目文档&lt;/a&gt;。&lt;/p&gt;
     
     </summary>
     
@@ -465,7 +465,7 @@
     <summary type="html">
     
       &lt;p&gt;&lt;img src=&quot;https://wx3.sinaimg.cn/large/0069RVTdgy1fv12tktn42j30zg0kon11.jpg&quot; alt=&quot;Tampermonkey 回归&quot;&gt;&lt;/p&gt;
-&lt;h1 id=&quot;使用场景与需求&quot;&gt;&lt;a href=&quot;#使用场景与需求&quot; class=&quot;headerlink&quot; title=&quot;使用场景与需求&quot;&gt;&lt;/a&gt;使用场景与需求&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;有些东西，用了就回不去了。&lt;/strong&gt;比如 &lt;a href=&quot;https://github.com/fang5566/uBlock/blob/master/README.md#ublock-origin&quot; target=&quot;_blank&quot; rel=&quot;external nofollow noopener noreferrer&quot;&gt;uBlock Origin&lt;/a&gt; 、Telegram、Gmail 和「油猴」。同样，也因为他们过于强大，也会因为某些因素而无法使用。今天趁着 Tmapermonkey 回归 Safari 扩展中心，盘点一下自己使用的油猴脚本。&lt;/p&gt;
+&lt;h1 id=&quot;使用场景与需求&quot;&gt;&lt;a href=&quot;#使用场景与需求&quot; class=&quot;headerlink&quot; title=&quot;使用场景与需求&quot;&gt;&lt;/a&gt;使用场景与需求&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;有些东西，用了就回不去了。&lt;/strong&gt;比如 &lt;a href=&quot;https://github.com/fang5566/uBlock/blob/master/README.md#ublock-origin&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;uBlock Origin&lt;/a&gt; 、Telegram、Gmail 和「油猴」。同样，也因为他们过于强大，也会因为某些因素而无法使用。今天趁着 Tmapermonkey 回归 Safari 扩展中心，盘点一下自己使用的油猴脚本。&lt;/p&gt;
     
     </summary>
     
@@ -527,7 +527,7 @@
     
       &lt;p&gt;最后更新于 2018 年 8 月 31 日&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;这篇文章的主要是参考 The Sweet Setup 旗下的 &lt;a href=&quot;https://thesweetsetup.com/category/sweet-setup-interview/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow noopener noreferrer&quot;&gt;SWEET SETUP INTERVIEW&lt;/a&gt; 系列以及 &lt;a href=&quot;http://liqi.io/community/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow noopener noreferrer&quot;&gt;利器社群计划&lt;/a&gt;，对照我自己的实际情况进行的分享。同时，也是对自己的软件与设置做一个备份，以便重装时进行相应恢复。&lt;/p&gt;
+&lt;p&gt;这篇文章的主要是参考 The Sweet Setup 旗下的 &lt;a href=&quot;https://thesweetsetup.com/category/sweet-setup-interview/&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;SWEET SETUP INTERVIEW&lt;/a&gt; 系列以及 &lt;a href=&quot;http://liqi.io/community/&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;利器社群计划&lt;/a&gt;，对照我自己的实际情况进行的分享。同时，也是对自己的软件与设置做一个备份，以便重装时进行相应恢复。&lt;/p&gt;
     
     </summary>
     
