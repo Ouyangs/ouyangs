@@ -506,9 +506,9 @@
       <category term="Blog" scheme="https://imouyang.com/categories/Blog/"/>
     
     
-      <category term="读书笔记" scheme="https://imouyang.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-    
       <category term="法律经济学" scheme="https://imouyang.com/tags/%E6%B3%95%E5%BE%8B%E7%BB%8F%E6%B5%8E%E5%AD%A6/"/>
+    
+      <category term="读书笔记" scheme="https://imouyang.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
       <category term="法学" scheme="https://imouyang.com/tags/%E6%B3%95%E5%AD%A6/"/>
     
@@ -535,13 +535,13 @@
       <category term="Blog" scheme="https://imouyang.com/categories/Blog/"/>
     
     
-      <category term="iOS" scheme="https://imouyang.com/tags/iOS/"/>
-    
       <category term="macOS" scheme="https://imouyang.com/tags/macOS/"/>
     
       <category term="APP" scheme="https://imouyang.com/tags/APP/"/>
     
       <category term="Homebrew" scheme="https://imouyang.com/tags/Homebrew/"/>
+    
+      <category term="iOS" scheme="https://imouyang.com/tags/iOS/"/>
     
   </entry>
   
@@ -568,9 +568,9 @@
     
       <category term="macOS" scheme="https://imouyang.com/tags/macOS/"/>
     
-      <category term="Homebrew" scheme="https://imouyang.com/tags/Homebrew/"/>
-    
       <category term="Python" scheme="https://imouyang.com/tags/Python/"/>
+    
+      <category term="Homebrew" scheme="https://imouyang.com/tags/Homebrew/"/>
     
   </entry>
   
