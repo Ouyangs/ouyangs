@@ -523,9 +523,9 @@
       
         <tags>
             
-            <tag> 法律经济学 </tag>
-            
             <tag> 读书笔记 </tag>
+            
+            <tag> 法律经济学 </tag>
             
             <tag> 法学 </tag>
             
@@ -587,9 +587,9 @@
             
             <tag> macOS </tag>
             
-            <tag> Python </tag>
-            
             <tag> Homebrew </tag>
+            
+            <tag> Python </tag>
             
         </tags>
       
@@ -820,7 +820,7 @@
       <link href="/jian-qiao-fen-xi/"/>
       <url>/jian-qiao-fen-xi/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>就在昨天，Facebook家的小扎在美国国会接受了差不多10个小时的“蹂躏”。但引起我注意的是这一事件的另一主角——剑桥分析公司（Cambrideg Analytica）。它的logo和分析方法让我觉得很有趣。</p><a id="more"></a><h2 id="Logo-与名画"><a href="#Logo-与名画" class="headerlink" title="Logo 与名画"></a>Logo 与名画</h2><p><img src="/images/2018/ca-logo.png" alt="CA Logo"><br>看到剑桥分析公司logo第一眼的时候，我想到了名画《创造亚当》（Creación de Adám）<sup id="fnref:1"><a href="#fn:1" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="由米开朗基罗 - 本文件提取自另一个文件: Creación de Adán.jpg，公有领域，https://commons.wikimedia.org/w/index.php?curid=29099348"></span></a><a href="/images/2018/ca-logo.png">1</a></sup>。这幅名画一直都有「大脑说」的一种说法。在画右边上帝的周围，其实就是一副大脑解剖图。而剑桥分析公司logo中各点连结起来，也是一副大脑侧面图。</p><p>点亮亚当的，也许不是「上帝」而是人自己的大脑。所以剑桥分析公司用它来做logo，与它的业务领域非常贴切。</p><p><img src="/images/2018/adam.jpg" alt="Creación_de_Adá"></p><h2 id="连结与小世界"><a href="#连结与小世界" class="headerlink" title="连结与小世界"></a>连结与小世界</h2><p>人类世界中个体之间的联系，从原始社会到现代社会，就像下图一样。最原始社会里，每个洞穴、部落就构成了一个个「熟人社会」。每个人只会与离自己“距离”近的人发生联系，不论是地缘还是血缘。近代社会里个体和离自己较远的个体发生的机会与可能变多了，社会的流动性增强了。进入现代社会里，每一个个体都有可能与其他人发生关联和联系，社会关系比原来更负责了。<br><img src="/images/2018/sample-networks.jpg" alt="Sample-Networks"><br>在后面两个社会里，那些与其他主体之间的连结较多的主体，就是一个个<strong>「结构洞」</strong><sup id="fnref:2"><a href="#fn:2" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="汪丁丁. 经济学思想史讲义[M]. 第2版. 上海: 上海人民出版社, 2012."></span></a><a href="/images/2018/adam.jpg">2</a></sup>。同时，与其他主体联系越多了，所能吸引的主体也就越多。也许剑桥分析公司，就是想做一个「结构洞」。通过控制信息的同时，连结其他人。</p><div id="footnotes"><hr><div id="footnotelist"><ol style="list-style: none; padding-left: 0; margin-left: 40px"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">1.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">由米开朗基罗 - 本文件提取自另一个文件: Creación de Adán.jpg，公有领域，https://commons.wikimedia.org/w/index.php?curid=29099348<a href="#fnref:1" rev="footnote"> ↩</a></span></li><li id="fn:2"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">2.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">汪丁丁. 经济学思想史讲义[M]. 第2版. 上海: 上海人民出版社, 2012.<a href="#fnref:2" rev="footnote"> ↩</a></span></li></ol></div></div><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>就在昨天，Facebook家的小扎在美国国会接受了差不多10个小时的“蹂躏”。但引起我注意的是这一事件的另一主角——剑桥分析公司（Cambrideg Analytica）。它的logo和分析方法让我觉得很有趣。</p><a id="more"></a><h2 id="Logo-与名画"><a href="#Logo-与名画" class="headerlink" title="Logo 与名画"></a>Logo 与名画</h2><p><img src="/images/2018/ca-logo.png" alt="CA Logo"><br>看到剑桥分析公司logo第一眼的时候，我想到了名画《创造亚当》（Creación de Adám）<sup id="fnref:1"><a href="#fn:1" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="由米开朗基罗 - 本文件提取自另一个文件: Creación de Adán.jpg，公有领域，[](https://commons.wikimedia.org/w/index.php?curid=29099348)  "></span></a><a href="/images/2018/ca-logo.png">1</a></sup>。这幅名画一直都有「大脑说」的一种说法。在画右边上帝的周围，其实就是一副大脑解剖图。而剑桥分析公司logo中各点连结起来，也是一副大脑侧面图。</p><p>点亮亚当的，也许不是「上帝」而是人自己的大脑。所以剑桥分析公司用它来做logo，与它的业务领域非常贴切。</p><p><img src="/images/2018/adam.jpg" alt="Creación_de_Adá"></p><h2 id="连结与小世界"><a href="#连结与小世界" class="headerlink" title="连结与小世界"></a>连结与小世界</h2><p>人类世界中个体之间的联系，从原始社会到现代社会，就像下图一样。最原始社会里，每个洞穴、部落就构成了一个个「熟人社会」。每个人只会与离自己“距离”近的人发生联系，不论是地缘还是血缘。近代社会里个体和离自己较远的个体发生的机会与可能变多了，社会的流动性增强了。进入现代社会里，每一个个体都有可能与其他人发生关联和联系，社会关系比原来更负责了。<br><img src="/images/2018/sample-networks.jpg" alt="Sample-Networks"><br>在后面两个社会里，那些与其他主体之间的连结较多的主体，就是一个个<strong>「结构洞」</strong><sup id="fnref:2"><a href="#fn:2" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="汪丁丁. 经济学思想史讲义[M]. 第2版. 上海: 上海人民出版社, 2012."></span></a><a href="/images/2018/adam.jpg">2</a></sup>。同时，与其他主体联系越多了，所能吸引的主体也就越多。也许剑桥分析公司，就是想做一个「结构洞」。通过控制信息的同时，连结其他人。</p><div id="footnotes"><hr><div id="footnotelist"><ol style="list-style: none; padding-left: 0; margin-left: 40px"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">1.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">由米开朗基罗 - 本文件提取自另一个文件: Creación de Adán.jpg，公有领域，<a href="https://commons.wikimedia.org/w/index.php?curid=29099348" rel="external nofollow noopener noreferrer" target="_blank"></a><a href="#fnref:1" rev="footnote"> ↩</a></span></li><li id="fn:2"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">2.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">汪丁丁. 经济学思想史讲义[M]. 第2版. 上海: 上海人民出版社, 2012.<a href="#fnref:2" rev="footnote"> ↩</a></span></li></ol></div></div><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
       
       <categories>
@@ -1729,9 +1729,9 @@
       
         <tags>
             
-            <tag> 侵占罪 </tag>
-            
             <tag> 刑法 </tag>
+            
+            <tag> 侵占罪 </tag>
             
             <tag> 诈骗罪 </tag>
             
