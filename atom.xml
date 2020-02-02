@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://imouyang.com/"/>
-  <updated>2020-01-31T16:25:30.613Z</updated>
+  <updated>2020-02-02T15:53:31.561Z</updated>
   <id>https://imouyang.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>LaTeX下使用 Times New Roman 字体的正确姿势</title>
+    <link href="https://imouyang.com/latex-times-new-roman/"/>
+    <id>https://imouyang.com/latex-times-new-roman/</id>
+    <published>2020-02-02T14:49:31.000Z</published>
+    <updated>2020-02-02T15:53:31.561Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;p&gt;原文链接：&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="精彩分享" scheme="https://imouyang.com/categories/%E7%B2%BE%E5%BD%A9%E5%88%86%E4%BA%AB/"/>
+    
+    
+      <category term="LaTeX" scheme="https://imouyang.com/tags/LaTeX/"/>
+    
+      <category term="字体" scheme="https://imouyang.com/tags/%E5%AD%97%E4%BD%93/"/>
+    
+  </entry>
   
   <entry>
     <title>碎碎念之《何以为家》</title>
@@ -542,35 +571,6 @@
       <category term="Homebrew" scheme="https://imouyang.com/tags/Homebrew/"/>
     
       <category term="iOS" scheme="https://imouyang.com/tags/iOS/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Mackup 备份出错的临时解决办法</title>
-    <link href="https://imouyang.com/mackup-bei-fen-chu-cuo-de-lin-shi-jie-jue-ban-fa/"/>
-    <id>https://imouyang.com/mackup-bei-fen-chu-cuo-de-lin-shi-jie-jue-ban-fa/</id>
-    <published>2018-08-24T02:12:26.000Z</published>
-    <updated>2018-08-24T04:31:33.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;环境与前提&quot;&gt;&lt;a href=&quot;#环境与前提&quot; class=&quot;headerlink&quot; title=&quot;环境与前提&quot;&gt;&lt;/a&gt;环境与前提&lt;/h1&gt;&lt;ul&gt;
-&lt;li&gt;系统：macOS 10.13.6 (17G65)&lt;/li&gt;
-&lt;li&gt;Python2.7 和 3.7 并存&lt;/li&gt;
-&lt;li&gt;通过 Homebrew 安装的 Mackup（ver 0.8.18)&lt;/li&gt;
-&lt;/ul&gt;
-    
-    </summary>
-    
-    
-      <category term="Blog" scheme="https://imouyang.com/categories/Blog/"/>
-    
-    
-      <category term="macOS" scheme="https://imouyang.com/tags/macOS/"/>
-    
-      <category term="Python" scheme="https://imouyang.com/tags/Python/"/>
-    
-      <category term="Homebrew" scheme="https://imouyang.com/tags/Homebrew/"/>
     
   </entry>
   

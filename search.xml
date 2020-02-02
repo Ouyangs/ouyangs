@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>LaTeX下使用 Times New Roman 字体的正确姿势</title>
+      <link href="/latex-times-new-roman/"/>
+      <url>/latex-times-new-roman/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>原文链接：<a href="https://www.latexstudio.net/archives/9323.html" rel="external nofollow noopener noreferrer" target="_blank">LaTeX技巧885：LaTeX下使用Times New Roman字体的正确姿势</a></p><h2 id="使用-fontspec系列宏包"><a href="#使用-fontspec系列宏包" class="headerlink" title="使用 fontspec系列宏包"></a>使用 <code>fontspec</code>系列宏包</h2><p><code>fontspec</code> 系列宏包是为 XeLaTeX 和 LuaLaTeX 设计的。借由它，用户可以直接选取系统中的字体。因此，你可以准确而直接地选择 Times New Roman 而不是其他近似（在 macOS 下只能用 Times Roman 了）。这是最推荐的方法。</p><pre class=" language-latex"><code class="language-latex"><span class="token function selector">\documentclass</span><span class="token punctuation">{</span><span class="token keyword">article</span><span class="token punctuation">}</span><span class="token function selector">\usepackage</span><span class="token punctuation">{</span><span class="token keyword">fontspec</span><span class="token punctuation">}</span><span class="token function selector">\setmainfont</span><span class="token punctuation">{</span>Times New Roman<span class="token punctuation">}</span><span class="token function selector">\usepackage</span><span class="token punctuation">{</span><span class="token keyword">mathspec</span><span class="token punctuation">}</span><span class="token function selector">\setallmathfont</span><span class="token punctuation">{</span>Times New Roman<span class="token punctuation">}</span><span class="token function selector">\begin</span><span class="token punctuation">{</span><span class="token keyword">document</span><span class="token punctuation">}</span>This is the typeface Times New Roman.Enjoy!<span class="token function selector">\end</span><span class="token punctuation">{</span><span class="token keyword">document</span><span class="token punctuation">}</span></code></pre><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 精彩分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> LaTeX </tag>
+            
+            <tag> 字体 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>碎碎念之《何以为家》</title>
       <link href="/sui-sui-nian-zhi-he-yi-wei-jia/"/>
       <url>/sui-sui-nian-zhi-he-yi-wei-jia/</url>
