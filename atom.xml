@@ -275,13 +275,13 @@
       <category term="Blog" scheme="https://imouyang.com/categories/Blog/"/>
     
     
+      <category term="乱弹" scheme="https://imouyang.com/tags/%E4%B9%B1%E5%BC%B9/"/>
+    
       <category term="社会责任" scheme="https://imouyang.com/tags/%E7%A4%BE%E4%BC%9A%E8%B4%A3%E4%BB%BB/"/>
     
       <category term="消费者" scheme="https://imouyang.com/tags/%E6%B6%88%E8%B4%B9%E8%80%85/"/>
     
       <category term="成本收益" scheme="https://imouyang.com/tags/%E6%88%90%E6%9C%AC%E6%94%B6%E7%9B%8A/"/>
-    
-      <category term="乱弹" scheme="https://imouyang.com/tags/%E4%B9%B1%E5%BC%B9/"/>
     
   </entry>
   
@@ -439,11 +439,11 @@
     <link href="https://imouyang.com/applescript-jiao-ben-liang-ge-ban/"/>
     <id>https://imouyang.com/applescript-jiao-ben-liang-ge-ban/</id>
     <published>2018-09-13T11:27:11.000Z</published>
-    <updated>2019-04-15T11:50:43.000Z</updated>
+    <updated>2020-02-02T16:37:37.560Z</updated>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;AppleScript-与我的需求&quot;&gt;&lt;a href=&quot;#AppleScript-与我的需求&quot; class=&quot;headerlink&quot; title=&quot;AppleScript 与我的需求&quot;&gt;&lt;/a&gt;AppleScript 与我的需求&lt;/h1&gt;&lt;p&gt;AppleScript 是苹果开发的一种脚本语言，语法结构和自然语言类似，主要用来控制和运行 macOS 中应用程序。在 macOS 升级与发展的同时，也逐渐兼容 JavaScript 进行操作，实现与 AppleScript 相同的功能，也方便现有开发者们（主要是前端开发者）编写更多的脚本。因此，当你对 macOS 使用有某种需求时，不必急于去学习、编写脚本，可以在网上搜索相关脚本。比如下面关于浏览器切换的脚本，就是我从 Github 上找到的&lt;span class=&quot;github-emoji&quot; style=&quot;color: transparent;background:no-repeat url(https://github.githubassets.com/images/icons/emoji/unicode/1f60f.png?v8) center/contain&quot; data-src=&quot;https://github.githubassets.com/images/icons/emoji/unicode/1f60f.png?v8&quot;&gt;😏&lt;/span&gt;。&lt;/p&gt;
+      &lt;h1 id=&quot;AppleScript-与我的需求&quot;&gt;&lt;a href=&quot;#AppleScript-与我的需求&quot; class=&quot;headerlink&quot; title=&quot;AppleScript 与我的需求&quot;&gt;&lt;/a&gt;AppleScript 与我的需求&lt;/h1&gt;&lt;p&gt;AppleScript 是苹果开发的一种脚本语言，语法结构和自然语言类似，主要用来控制和运行 macOS 中应用程序。在 macOS 升级与发展的同时，也逐渐兼容 JavaScript 进行操作，实现与 AppleScript 相同的功能，也方便现有开发者们（主要是前端开发者）编写更多的脚本。因此，当你对 macOS 使用有某种需求时，不必急于去学习、编写脚本，可以在网上搜索相关脚本。比如下面关于浏览器切换的脚本，就是我从 Github 上找到的 &lt;span class=&quot;github-emoji&quot; style=&quot;color: transparent;background:no-repeat url(https://github.githubassets.com/images/icons/emoji/unicode/1f60f.png?v8) center/contain&quot; data-src=&quot;https://github.githubassets.com/images/icons/emoji/unicode/1f60f.png?v8&quot;&gt;😏&lt;/span&gt;。&lt;/p&gt;
     
     </summary>
     
@@ -564,13 +564,13 @@
       <category term="Blog" scheme="https://imouyang.com/categories/Blog/"/>
     
     
+      <category term="iOS" scheme="https://imouyang.com/tags/iOS/"/>
+    
       <category term="macOS" scheme="https://imouyang.com/tags/macOS/"/>
     
       <category term="APP" scheme="https://imouyang.com/tags/APP/"/>
     
       <category term="Homebrew" scheme="https://imouyang.com/tags/Homebrew/"/>
-    
-      <category term="iOS" scheme="https://imouyang.com/tags/iOS/"/>
     
   </entry>
   
