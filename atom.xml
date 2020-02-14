@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://imouyang.com/"/>
-  <updated>2020-02-02T15:53:31.561Z</updated>
+  <updated>2020-02-14T16:14:37.641Z</updated>
   <id>https://imouyang.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>湖北高院民二庭《关于审理涉及新型冠状病毒肺炎疫情商事案件若干问题的解答》</title>
+    <link href="https://imouyang.com/hu-bei-gao-yuan-min-er-ting-tong-zhi/"/>
+    <id>https://imouyang.com/hu-bei-gao-yuan-min-er-ting-tong-zhi/</id>
+    <published>2020-02-14T23:11:36.000Z</published>
+    <updated>2020-02-14T16:14:37.641Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;h2 id=&quot;关于审理涉及新型冠状病毒肺炎疫情商事案件若干问题的解答&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="法学" scheme="https://imouyang.com/categories/%E6%B3%95%E5%AD%A6/"/>
+    
+    
+      <category term="法律法规" scheme="https://imouyang.com/tags/%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84/"/>
+    
+  </entry>
   
   <entry>
     <title>LaTeX下使用 Times New Roman 字体的正确姿势</title>
@@ -275,13 +302,13 @@
       <category term="Blog" scheme="https://imouyang.com/categories/Blog/"/>
     
     
-      <category term="乱弹" scheme="https://imouyang.com/tags/%E4%B9%B1%E5%BC%B9/"/>
-    
       <category term="社会责任" scheme="https://imouyang.com/tags/%E7%A4%BE%E4%BC%9A%E8%B4%A3%E4%BB%BB/"/>
     
       <category term="消费者" scheme="https://imouyang.com/tags/%E6%B6%88%E8%B4%B9%E8%80%85/"/>
     
       <category term="成本收益" scheme="https://imouyang.com/tags/%E6%88%90%E6%9C%AC%E6%94%B6%E7%9B%8A/"/>
+    
+      <category term="乱弹" scheme="https://imouyang.com/tags/%E4%B9%B1%E5%BC%B9/"/>
     
   </entry>
   
@@ -443,7 +470,7 @@
     
     <summary type="html">
     
-      &lt;h1 id=&quot;AppleScript-与我的需求&quot;&gt;&lt;a href=&quot;#AppleScript-与我的需求&quot; class=&quot;headerlink&quot; title=&quot;AppleScript 与我的需求&quot;&gt;&lt;/a&gt;AppleScript 与我的需求&lt;/h1&gt;&lt;p&gt;AppleScript 是苹果开发的一种脚本语言，语法结构和自然语言类似，主要用来控制和运行 macOS 中应用程序。在 macOS 升级与发展的同时，也逐渐兼容 JavaScript 进行操作，实现与 AppleScript 相同的功能，也方便现有开发者们（主要是前端开发者）编写更多的脚本。因此，当你对 macOS 使用有某种需求时，不必急于去学习、编写脚本，可以在网上搜索相关脚本。比如下面关于浏览器切换的脚本，就是我从 Github 上找到的 &lt;span class=&quot;github-emoji&quot; style=&quot;color: transparent;background:no-repeat url(https://github.githubassets.com/images/icons/emoji/unicode/1f60f.png?v8) center/contain&quot; data-src=&quot;https://github.githubassets.com/images/icons/emoji/unicode/1f60f.png?v8&quot;&gt;😏&lt;/span&gt;。&lt;/p&gt;
+      &lt;h1 id=&quot;AppleScript-与我的需求&quot;&gt;&lt;a href=&quot;#AppleScript-与我的需求&quot; class=&quot;headerlink&quot; title=&quot;AppleScript 与我的需求&quot;&gt;&lt;/a&gt;AppleScript 与我的需求&lt;/h1&gt;&lt;p&gt;AppleScript 是苹果开发的一种脚本语言，语法结构和自然语言类似，主要用来控制和运行 macOS 中应用程序。在 macOS 升级与发展的同时，也逐渐兼容 JavaScript 进行操作，实现与 AppleScript 相同的功能，也方便现有开发者们（主要是前端开发者）编写更多的脚本。因此，当你对 macOS 使用有某种需求时，不必急于去学习、编写脚本，可以在网上搜索相关脚本。比如下面关于浏览器切换的脚本，就是我从 Github 上找到的 :smirk:。&lt;/p&gt;
     
     </summary>
     
@@ -535,42 +562,13 @@
       <category term="Blog" scheme="https://imouyang.com/categories/Blog/"/>
     
     
-      <category term="法律经济学" scheme="https://imouyang.com/tags/%E6%B3%95%E5%BE%8B%E7%BB%8F%E6%B5%8E%E5%AD%A6/"/>
-    
       <category term="读书笔记" scheme="https://imouyang.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="法律经济学" scheme="https://imouyang.com/tags/%E6%B3%95%E5%BE%8B%E7%BB%8F%E6%B5%8E%E5%AD%A6/"/>
     
       <category term="法学" scheme="https://imouyang.com/tags/%E6%B3%95%E5%AD%A6/"/>
     
       <category term="经济学" scheme="https://imouyang.com/tags/%E7%BB%8F%E6%B5%8E%E5%AD%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【流水账】我的 macOS 和 iOS 设置</title>
-    <link href="https://imouyang.com/wo-de-macos-he-ios-she-zhi/"/>
-    <id>https://imouyang.com/wo-de-macos-he-ios-she-zhi/</id>
-    <published>2018-09-03T14:21:59.000Z</published>
-    <updated>2019-04-20T07:39:19.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;最后更新于 2018 年 8 月 31 日&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;这篇文章的主要是参考 The Sweet Setup 旗下的 &lt;a href=&quot;https://thesweetsetup.com/category/sweet-setup-interview/&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;SWEET SETUP INTERVIEW&lt;/a&gt; 系列以及 &lt;a href=&quot;http://liqi.io/community/&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;利器社群计划&lt;/a&gt;，对照我自己的实际情况进行的分享。同时，也是对自己的软件与设置做一个备份，以便重装时进行相应恢复。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="Blog" scheme="https://imouyang.com/categories/Blog/"/>
-    
-    
-      <category term="iOS" scheme="https://imouyang.com/tags/iOS/"/>
-    
-      <category term="macOS" scheme="https://imouyang.com/tags/macOS/"/>
-    
-      <category term="APP" scheme="https://imouyang.com/tags/APP/"/>
-    
-      <category term="Homebrew" scheme="https://imouyang.com/tags/Homebrew/"/>
     
   </entry>
   
