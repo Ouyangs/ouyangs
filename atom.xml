@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://imouyang.com/"/>
-  <updated>2020-02-14T16:14:37.641Z</updated>
+  <updated>2020-02-16T14:45:22.369Z</updated>
   <id>https://imouyang.com/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Poker键盘自定义备忘</title>
+    <link href="https://imouyang.com/poker-jian-pan-zi-ding-yi-bei-wang/"/>
+    <id>https://imouyang.com/poker-jian-pan-zi-ding-yi-bei-wang/</id>
+    <published>2020-02-16T14:34:38.000Z</published>
+    <updated>2020-02-16T14:45:22.369Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;h3 id=&quot;系统设置&quot;&gt;&lt;a href=&quot;#系统设置&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Blog" scheme="https://imouyang.com/categories/Blog/"/>
+    
+    
+      <category term="机械键盘" scheme="https://imouyang.com/tags/%E6%9C%BA%E6%A2%B0%E9%94%AE%E7%9B%98/"/>
+    
+  </entry>
+  
+  <entry>
     <title>湖北高院民二庭《关于审理涉及新型冠状病毒肺炎疫情商事案件若干问题的解答》</title>
     <link href="https://imouyang.com/hu-bei-gao-yuan-min-er-ting-tong-zhi/"/>
     <id>https://imouyang.com/hu-bei-gao-yuan-min-er-ting-tong-zhi/</id>
     <published>2020-02-14T23:11:36.000Z</published>
-    <updated>2020-02-14T16:14:37.641Z</updated>
+    <updated>2020-02-14T16:35:01.698Z</updated>
     
     <summary type="html">
     
@@ -77,7 +104,7 @@
     <link href="https://imouyang.com/sui-sui-nian-zhi-he-yi-wei-jia/"/>
     <id>https://imouyang.com/sui-sui-nian-zhi-he-yi-wei-jia/</id>
     <published>2019-05-05T13:44:04.000Z</published>
-    <updated>2020-01-31T16:25:30.613Z</updated>
+    <updated>2020-02-14T16:34:56.334Z</updated>
     
     <summary type="html">
     
@@ -516,12 +543,12 @@
     <link href="https://imouyang.com/chen-zhao-tampermonkey-hui-gui-de-jiao-ben-pan-dian/"/>
     <id>https://imouyang.com/chen-zhao-tampermonkey-hui-gui-de-jiao-ben-pan-dian/</id>
     <published>2018-09-07T12:46:19.000Z</published>
-    <updated>2020-02-01T08:32:04.606Z</updated>
+    <updated>2020-02-16T18:00:29.864Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://wx4.sinaimg.cn/large/0069RVTdgy1fv12tktn42j30zg0kon11.jpg&quot; alt=&quot;Tampermonkey 回归&quot;&gt;&lt;/p&gt;
-&lt;h1 id=&quot;使用场景与需求&quot;&gt;&lt;a href=&quot;#使用场景与需求&quot; class=&quot;headerlink&quot; title=&quot;使用场景与需求&quot;&gt;&lt;/a&gt;使用场景与需求&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;有些东西，用了就回不去了。&lt;/strong&gt;比如 &lt;a href=&quot;https://github.com/fang5566/uBlock/blob/master/README.md#ublock-origin&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;uBlock Origin&lt;/a&gt; 、Telegram、Gmail 和「油猴」。同样，也因为他们过于强大，也会因为某些因素而无法使用。今天趁着 Tmapermonkey 回归 Safari 扩展中心，盘点一下自己使用的油猴脚本。&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/sawyeron/Pics/master/uPic/202002-TamperMonkey.jpg&quot; alt=&quot;Tampermonkey 回归&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;使用场景与需求&quot;&gt;&lt;a href=&quot;#使用场景与需求&quot; class=&quot;headerlink&quot; title=&quot;使用场景与需求&quot;&gt;&lt;/a&gt;使用场景与需求&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;有些东西，用了就回不去了。&lt;/strong&gt;比如 &lt;a href=&quot;https://github.com/fang5566/uBlock/blob/master/README.md#ublock-origin&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;uBlock Origin&lt;/a&gt; 、Telegram、Gmail 和「油猴」。同样，也因为他们过于强大，也会因为某些因素而无法使用。今天趁着 Tmapermonkey 回归 Safari 扩展中心，盘点一下自己使用的油猴脚本。&lt;/p&gt;
     
     </summary>
     
@@ -537,38 +564,7 @@
     
       <category term="隐私" scheme="https://imouyang.com/tags/%E9%9A%90%E7%A7%81/"/>
     
-  </entry>
-  
-  <entry>
-    <title>【读书笔记】金钱不能买什么</title>
-    <link href="https://imouyang.com/jin-qian-bu-neng-mai-shi-me/"/>
-    <id>https://imouyang.com/jin-qian-bu-neng-mai-shi-me/</id>
-    <published>2018-09-06T14:55:07.000Z</published>
-    <updated>2018-10-11T00:55:34.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://img3.doubanio.com/lpic/s24417497.jpg&quot; alt=&quot;《金钱不能买什么》封面&quot;&gt;&lt;/p&gt;
-&lt;h1 id=&quot;编辑推荐&quot;&gt;&lt;a href=&quot;#编辑推荐&quot; class=&quot;headerlink&quot; title=&quot;编辑推荐&quot;&gt;&lt;/a&gt;编辑推荐&lt;/h1&gt;&lt;blockquote&gt;
-&lt;p&gt;市场的角色和范围是现代政治所缺失的一场重大辩论。我们想要一个市场经济，还是市场社会？市场在公共生活和个人伦理扮演什么角色？我们怎样决定什么东西可以买卖，什么东西由非市场的价值掌握？哪里是金钱的法则行不通的地方？&lt;/p&gt;
-&lt;p&gt;在《金钱不能买什么：金钱与公正的正面交锋》中，迈克尔•桑德尔论述了当下最为突出的道德问题之一：在我们这个世界，任何事物都可以出售，这个世界难道没有问题？如果是这样，我们又该如何防止市场价值观侵蚀本不该由它们主导的领域？市场的道德界限又何在？&lt;/p&gt;
-&lt;p&gt;近几十年来，在我们生活的几乎每一个层面，医疗、教育、政府、法律、艺术、体育，甚至家庭生活和人际关系等，非市场的准则都已被市场价值排挤出局。桑德尔认为，我们已经从一个拥有市场经济的社会变成了市场化的社会。&lt;/p&gt;
-&lt;p&gt;在全球畅销书《公正》中，桑德尔用简洁而敏锐的阐述，就我们在日常生活中所遇到的道德困境娓娓道来，展现了大师级的拿捏能力。在《金钱不能买什么：金钱与公正的正面交锋》一书中，他发起了一场我们这个“市场驱动时代”所缺失的争论：在民主社会中，市场应扮演什么角色；道德和公共的善为市场所不敬，金钱所不及，我们怎样才能够保护它们？&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-    
-      <category term="Blog" scheme="https://imouyang.com/categories/Blog/"/>
-    
-    
-      <category term="读书笔记" scheme="https://imouyang.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-    
-      <category term="法律经济学" scheme="https://imouyang.com/tags/%E6%B3%95%E5%BE%8B%E7%BB%8F%E6%B5%8E%E5%AD%A6/"/>
-    
-      <category term="法学" scheme="https://imouyang.com/tags/%E6%B3%95%E5%AD%A6/"/>
-    
-      <category term="经济学" scheme="https://imouyang.com/tags/%E7%BB%8F%E6%B5%8E%E5%AD%A6/"/>
+      <category term="Tampermonkey" scheme="https://imouyang.com/tags/Tampermonkey/"/>
     
   </entry>
   
