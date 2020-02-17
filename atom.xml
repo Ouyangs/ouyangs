@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://imouyang.com/"/>
-  <updated>2020-02-16T14:45:22.369Z</updated>
+  <updated>2020-02-17T17:31:27.106Z</updated>
   <id>https://imouyang.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>乱弹20200217</title>
+    <link href="https://imouyang.com/luan-dan-20200217/"/>
+    <id>https://imouyang.com/luan-dan-20200217/</id>
+    <published>2020-02-17T06:50:19.000Z</published>
+    <updated>2020-02-17T17:31:27.106Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;在武汉因为「新冠病毒肺炎」（NCP）采取关闭离汉通道的这些天里，非常庆幸自己双十一和双 12 的时候囤了不少的日用品，也庆幸小伙伴中间给我送了一次补给，让我在被封城的这段时间里没有被饿死。:smiley: 故写了本篇博文，侧面记录一下这段时间。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Blog" scheme="https://imouyang.com/categories/Blog/"/>
+    
+    
+      <category term="断舍离" scheme="https://imouyang.com/tags/%E6%96%AD%E8%88%8D%E7%A6%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>Poker键盘自定义备忘</title>
@@ -535,36 +556,6 @@
       <category term="APP" scheme="https://imouyang.com/tags/APP/"/>
     
       <category term="Homebrew" scheme="https://imouyang.com/tags/Homebrew/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>趁着 Tampermonkey 回归的脚本盘点</title>
-    <link href="https://imouyang.com/chen-zhao-tampermonkey-hui-gui-de-jiao-ben-pan-dian/"/>
-    <id>https://imouyang.com/chen-zhao-tampermonkey-hui-gui-de-jiao-ben-pan-dian/</id>
-    <published>2018-09-07T12:46:19.000Z</published>
-    <updated>2020-02-16T18:00:29.864Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/sawyeron/Pics/master/uPic/202002-TamperMonkey.jpg&quot; alt=&quot;Tampermonkey 回归&quot;&gt;&lt;/p&gt;
-&lt;h2 id=&quot;使用场景与需求&quot;&gt;&lt;a href=&quot;#使用场景与需求&quot; class=&quot;headerlink&quot; title=&quot;使用场景与需求&quot;&gt;&lt;/a&gt;使用场景与需求&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;有些东西，用了就回不去了。&lt;/strong&gt;比如 &lt;a href=&quot;https://github.com/fang5566/uBlock/blob/master/README.md#ublock-origin&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;uBlock Origin&lt;/a&gt; 、Telegram、Gmail 和「油猴」。同样，也因为他们过于强大，也会因为某些因素而无法使用。今天趁着 Tmapermonkey 回归 Safari 扩展中心，盘点一下自己使用的油猴脚本。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="Blog" scheme="https://imouyang.com/categories/Blog/"/>
-    
-    
-      <category term="macOS" scheme="https://imouyang.com/tags/macOS/"/>
-    
-      <category term="效率工具" scheme="https://imouyang.com/tags/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7/"/>
-    
-      <category term="云盘" scheme="https://imouyang.com/tags/%E4%BA%91%E7%9B%98/"/>
-    
-      <category term="隐私" scheme="https://imouyang.com/tags/%E9%9A%90%E7%A7%81/"/>
-    
-      <category term="Tampermonkey" scheme="https://imouyang.com/tags/Tampermonkey/"/>
     
   </entry>
   
