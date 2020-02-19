@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://imouyang.com/"/>
-  <updated>2020-02-17T17:31:27.106Z</updated>
+  <updated>2020-02-19T15:59:40.339Z</updated>
   <id>https://imouyang.com/</id>
   
   <author>
@@ -17,15 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>MoneyWiz中新建贷款帐户付款计划闪烁的处理</title>
+    <link href="https://imouyang.com/moneywiz-zhong-xin-jian-dai-kuan-zhang-hu-fu-kuan-ji-hua-shan-shuo-de-chu-li/"/>
+    <id>https://imouyang.com/moneywiz-zhong-xin-jian-dai-kuan-zhang-hu-fu-kuan-ji-hua-shan-shuo-de-chu-li/</id>
+    <published>2020-02-19T15:59:40.000Z</published>
+    <updated>2020-02-19T15:59:40.339Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;h2 id=&quot;环境与版本&quot;&gt;&lt;a href=&quot;#环境与版本&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>乱弹20200217</title>
     <link href="https://imouyang.com/luan-dan-20200217/"/>
     <id>https://imouyang.com/luan-dan-20200217/</id>
     <published>2020-02-17T06:50:19.000Z</published>
-    <updated>2020-02-17T17:31:27.106Z</updated>
+    <updated>2020-02-18T08:31:01.926Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;在武汉因为「新冠病毒肺炎」（NCP）采取关闭离汉通道的这些天里，非常庆幸自己双十一和双 12 的时候囤了不少的日用品，也庆幸小伙伴中间给我送了一次补给，让我在被封城的这段时间里没有被饿死。:smiley: 故写了本篇博文，侧面记录一下这段时间。&lt;/p&gt;
+      &lt;p&gt;在武汉因为「新冠病毒肺炎」（NCP）采取关闭离汉通道的这些天里，非常庆幸自己双十一和双 12 的时候囤了不少的日用品，也庆幸小伙伴中间给我送了一次补给，让我在被封城的这段时间里没有被饿死。&lt;span class=&quot;github-emoji&quot; style=&quot;color: transparent;background:no-repeat url(https://github.githubassets.com/images/icons/emoji/unicode/1f603.png?v8) center/contain&quot; data-src=&quot;https://github.githubassets.com/images/icons/emoji/unicode/1f603.png?v8&quot;&gt;😃&lt;/span&gt; 故写了本篇博文，侧面记录一下这段时间。&lt;/p&gt;
     
     </summary>
     
@@ -514,11 +537,11 @@
     <link href="https://imouyang.com/applescript-jiao-ben-liang-ge-ban/"/>
     <id>https://imouyang.com/applescript-jiao-ben-liang-ge-ban/</id>
     <published>2018-09-13T11:27:11.000Z</published>
-    <updated>2020-02-02T16:37:37.560Z</updated>
+    <updated>2020-02-19T15:33:15.232Z</updated>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;AppleScript-与我的需求&quot;&gt;&lt;a href=&quot;#AppleScript-与我的需求&quot; class=&quot;headerlink&quot; title=&quot;AppleScript 与我的需求&quot;&gt;&lt;/a&gt;AppleScript 与我的需求&lt;/h1&gt;&lt;p&gt;AppleScript 是苹果开发的一种脚本语言，语法结构和自然语言类似，主要用来控制和运行 macOS 中应用程序。在 macOS 升级与发展的同时，也逐渐兼容 JavaScript 进行操作，实现与 AppleScript 相同的功能，也方便现有开发者们（主要是前端开发者）编写更多的脚本。因此，当你对 macOS 使用有某种需求时，不必急于去学习、编写脚本，可以在网上搜索相关脚本。比如下面关于浏览器切换的脚本，就是我从 Github 上找到的 :smirk:。&lt;/p&gt;
+      &lt;h1 id=&quot;AppleScript-与我的需求&quot;&gt;&lt;a href=&quot;#AppleScript-与我的需求&quot; class=&quot;headerlink&quot; title=&quot;AppleScript 与我的需求&quot;&gt;&lt;/a&gt;AppleScript 与我的需求&lt;/h1&gt;&lt;p&gt;AppleScript 是苹果开发的一种脚本语言，语法结构和自然语言类似，主要用来控制和运行 macOS 中应用程序。在 macOS 升级与发展的同时，也逐渐兼容 JavaScript 进行操作，实现与 AppleScript 相同的功能，也方便现有开发者们（主要是前端开发者）编写更多的脚本。因此，当你对 macOS 使用有某种需求时，不必急于去学习、编写脚本，可以在网上搜索相关脚本。比如下面关于浏览器切换的脚本，就是我从 Github 上找到的 &lt;span class=&quot;github-emoji&quot; style=&quot;color: transparent;background:no-repeat url(https://github.githubassets.com/images/icons/emoji/unicode/1f60f.png?v8) center/contain&quot; data-src=&quot;https://github.githubassets.com/images/icons/emoji/unicode/1f60f.png?v8&quot;&gt;😏&lt;/span&gt; 。&lt;/p&gt;
     
     </summary>
     
@@ -531,31 +554,6 @@
       <category term="APP" scheme="https://imouyang.com/tags/APP/"/>
     
       <category term="AppleScript" scheme="https://imouyang.com/tags/AppleScript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Homebrew 离线安装方式变更</title>
-    <link href="https://imouyang.com/homebrew-chi-xian-an-zhuang-fang-shi-bian-geng/"/>
-    <id>https://imouyang.com/homebrew-chi-xian-an-zhuang-fang-shi-bian-geng/</id>
-    <published>2018-09-09T12:26:29.000Z</published>
-    <updated>2020-02-01T03:43:08.206Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;在我此前多篇博文中均提及了 &lt;a href=&quot;https://brew.sh/index_zh-cn&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Homebrew&lt;/a&gt;，官方自定义为「macOS 缺失的软件包的管理器」, 作为一个开源项目，同样可以在 Github 上找到它的 &lt;a href=&quot;https://github.com/Homebrew/brew&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;项目文档&lt;/a&gt;。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="Blog" scheme="https://imouyang.com/categories/Blog/"/>
-    
-    
-      <category term="macOS" scheme="https://imouyang.com/tags/macOS/"/>
-    
-      <category term="APP" scheme="https://imouyang.com/tags/APP/"/>
-    
-      <category term="Homebrew" scheme="https://imouyang.com/tags/Homebrew/"/>
     
   </entry>
   
