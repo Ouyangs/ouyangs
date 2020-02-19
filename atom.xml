@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://imouyang.com/"/>
-  <updated>2020-02-19T15:59:40.339Z</updated>
+  <updated>2020-02-19T16:09:57.041Z</updated>
   <id>https://imouyang.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://imouyang.com/moneywiz-zhong-xin-jian-dai-kuan-zhang-hu-fu-kuan-ji-hua-shan-shuo-de-chu-li/"/>
     <id>https://imouyang.com/moneywiz-zhong-xin-jian-dai-kuan-zhang-hu-fu-kuan-ji-hua-shan-shuo-de-chu-li/</id>
     <published>2020-02-19T15:59:40.000Z</published>
-    <updated>2020-02-19T15:59:40.339Z</updated>
+    <updated>2020-02-19T16:09:57.041Z</updated>
     
     <summary type="html">
     
@@ -36,6 +36,10 @@
     </summary>
     
     
+      <category term="Blog" scheme="https://imouyang.com/categories/Blog/"/>
+    
+    
+      <category term="APP" scheme="https://imouyang.com/tags/APP/"/>
     
   </entry>
   

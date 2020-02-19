@@ -11,6 +11,18 @@
         <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h2 id="环境与版本"><a href="#环境与版本" class="headerlink" title="环境与版本"></a>环境与版本</h2><ul><li>系统：macOS Catalina 10.15.3 (19D76)</li><li>MoneyWiz 3.7.2(build 923)</li></ul><h2 id="问题与报错"><a href="#问题与报错" class="headerlink" title="问题与报错"></a>问题与报错</h2><p>在尝试新建贷款帐户时，「付款计划」按钮一直闪烁，无法完成贷款帐户创建步骤。</p><p><img src="../images/2020/mz-newloan.gif" alt="按钮闪烁"></p><p>最开始尝试了将还款日期等信息后延，避免出现已过期日期的付款计划，但扔闪烁，解决无果。</p><h2 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h2><p>通过搜索找到官方支持文档：<a href="https://support.wiz.money/hc/en-us/articles/360022481333-Why-I-can-t-create-a-loan-account-" rel="external nofollow noopener noreferrer" target="_blank">Why I can’t create a loan account?</a></p><p><img src="../images/2020/mz-support.png" alt="支持界面"></p><p>简单地说，贷款帐户创建中必须将「本金」与「利息」设定为不同地分类（可以是同一个一级分类下的子分类），不能都设定为同一分类。</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
       
+      <categories>
+          
+          <category> Blog </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> APP </tag>
+            
+        </tags>
       
     </entry>
     
@@ -704,9 +716,9 @@
             
             <tag> macOS </tag>
             
-            <tag> Python </tag>
-            
             <tag> Homebrew </tag>
+            
+            <tag> Python </tag>
             
         </tags>
       
@@ -1879,9 +1891,9 @@
             
             <tag> 知识产权法 </tag>
             
-            <tag> 著作权法 </tag>
-            
             <tag> 知乎 </tag>
+            
+            <tag> 著作权法 </tag>
             
         </tags>
       
