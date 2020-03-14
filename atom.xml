@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://imouyang.com/"/>
-  <updated>2020-02-24T16:39:22.160Z</updated>
+  <updated>2020-03-06T16:07:48.083Z</updated>
   <id>https://imouyang.com/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>oh-my-zsh升级失败的解决方法</title>
+    <link href="https://imouyang.com/oh-my-zsh-sheng-ji-shi-bai-de-jie-jue-fang-fa/"/>
+    <id>https://imouyang.com/oh-my-zsh-sheng-ji-shi-bai-de-jie-jue-fang-fa/</id>
+    <published>2020-03-06T13:59:51.000Z</published>
+    <updated>2020-03-06T16:07:48.083Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;p&gt;系统重装之后，仍然从 Homebrew 安装了 zsh 与
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Blog" scheme="https://imouyang.com/categories/Blog/"/>
+    
+    
+      <category term="Homebrew" scheme="https://imouyang.com/tags/Homebrew/"/>
+    
+      <category term="ToolMan" scheme="https://imouyang.com/tags/ToolMan/"/>
+    
+      <category term="zsh" scheme="https://imouyang.com/tags/zsh/"/>
+    
+  </entry>
   
   <entry>
     <title>四地关于新冠肺炎疫情期间生活费发放标准的梳理</title>
@@ -288,7 +319,7 @@
     <link href="https://imouyang.com/hu-bei-sheng-fen-qu-yu-zui-di-gong-zi-biao-zhun/"/>
     <id>https://imouyang.com/hu-bei-sheng-fen-qu-yu-zui-di-gong-zi-biao-zhun/</id>
     <published>2019-03-14T11:43:27.000Z</published>
-    <updated>2020-02-01T08:32:45.328Z</updated>
+    <updated>2020-03-10T13:31:22.629Z</updated>
     
     <summary type="html">
     
@@ -508,7 +539,7 @@
     <link href="https://imouyang.com/macos-geng-xin-hou-homebrew-bao-cuo-chu-li-fang-an/"/>
     <id>https://imouyang.com/macos-geng-xin-hou-homebrew-bao-cuo-chu-li-fang-an/</id>
     <published>2018-10-20T07:12:14.000Z</published>
-    <updated>2018-10-26T07:17:57.000Z</updated>
+    <updated>2020-03-06T15:59:35.701Z</updated>
     
     <summary type="html">
     
@@ -516,7 +547,7 @@
       
         
         
-          &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;h1 id=&quot;报错内容&quot;&gt;&lt;a href=&quot;#报错内容&quot;
+          &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;h2 id=&quot;报错内容&quot;&gt;&lt;a href=&quot;#报错内容&quot;
         
       
     
@@ -529,33 +560,6 @@
       <category term="macOS" scheme="https://imouyang.com/tags/macOS/"/>
     
       <category term="Homebrew" scheme="https://imouyang.com/tags/Homebrew/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>iPhone Xʀ 与小型大写字母</title>
-    <link href="https://imouyang.com/iphone-xryu-xiao-xing-da-xie-zi-mu/"/>
-    <id>https://imouyang.com/iphone-xryu-xiao-xing-da-xie-zi-mu/</id>
-    <published>2018-09-16T12:00:46.000Z</published>
-    <updated>2020-02-02T16:30:43.347Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;北京时间 2018 年 9 月 13 日凌晨，苹果公司（Apple Inc.）在今年秋季发布会上发布了 iPhone Xꜱ、iPhone Xꜱ Max、iPhone Xʀ 和 Apple Watch Series 4 四个硬件设备。自己并未熬夜看发布会直播，所以在第二天铺天盖地的报道时，一直没有发现三款新的 iPhone 中的 ꜱ 和 ʀ，并不是大写字母。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="Blog" scheme="https://imouyang.com/categories/Blog/"/>
-    
-    
-      <category term="macOS" scheme="https://imouyang.com/tags/macOS/"/>
-    
-      <category term="APP" scheme="https://imouyang.com/tags/APP/"/>
-    
-      <category term="输入法" scheme="https://imouyang.com/tags/%E8%BE%93%E5%85%A5%E6%B3%95/"/>
-    
-      <category term="Rime" scheme="https://imouyang.com/tags/Rime/"/>
     
   </entry>
   

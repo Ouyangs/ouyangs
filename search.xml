@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>oh-my-zsh升级失败的解决方法</title>
+      <link href="/oh-my-zsh-sheng-ji-shi-bai-de-jie-jue-fang-fa/"/>
+      <url>/oh-my-zsh-sheng-ji-shi-bai-de-jie-jue-fang-fa/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>系统重装之后，仍然从 Homebrew 安装了 zsh 与 oh-my-zsh 加强 macOS 上 <code>终端</code> 的功能。今天打开终端之后提示 oh-my-zsh 可以升级，输入 <code>y</code> 之后却提示失败了。</p><h2 id="问题与报错"><a href="#问题与报错" class="headerlink" title="问题与报错"></a>问题与报错</h2><p>错误提示如下：</p><pre class=" language-bash"><code class="language-bash"><span class="token punctuation">[</span>Oh My Zsh<span class="token punctuation">]</span> Would you like to check <span class="token keyword">for</span> updates? <span class="token punctuation">[</span>Y/n<span class="token punctuation">]</span>: yUpdating Oh My Zsherror: cannot pull with rebase: You have unstaged changes.error: please commit or stash them.There was an error updating. Try again later?</code></pre><h2 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h2><p>直接把错误提示丢去搜索，得到了一堆搜索结果（看来不止我一个人遇到这个情况）。其中，有一个官方 <a href="https://github.com/robbyrussell/oh-my-zsh/issues/1984" rel="external nofollow noopener noreferrer" target="_blank">issues</a></p><p>简单地说，就是之前我在修改 zsh 主题的时候，对.oh-my-zsh 文件夹里的内容进行了更改，而没有进行 commit。</p><p>为了验证这个情况，进入到.oh-my-zsh 目录查看了一下 git 仓库的情况。<br><img src="../images/2020/zsh-status.png" alt="git status"><br>从上面的核查情况，可以发现确实是修改主题而产生的问题。</p><p>知道问题之后就好解决了，可以直接增加 commit 就好。</p><p><img src="../images/2020/zsh-commit.png" alt="git commit"></p><p>commit 之后，回到用户目录，再执行更新命令尝试更新<br><img src="../images/2020/zsh-upgrade.png" alt="upgrade_oh_my_zsh"></p><p>可以看到是顺利进入了下载，直接等他下载完毕自动安装就好，最终顺利安装完毕。</p><p><img src="../images/2020/zsh-done.png" alt="Done"></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> Blog </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Homebrew </tag>
+            
+            <tag> ToolMan </tag>
+            
+            <tag> zsh </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>四地关于新冠肺炎疫情期间生活费发放标准的梳理</title>
       <link href="/si-di-guan-yu-xin-guan-fei-yan-yi-qing-qi-jian-sheng-huo-fei-fa-fang-biao-zhun-de-shu-li/"/>
       <url>/si-di-guan-yu-xin-guan-fei-yan-yi-qing-qi-jian-sheng-huo-fei-fa-fang-biao-zhun-de-shu-li/</url>
@@ -258,7 +287,7 @@
       <link href="/hu-bei-sheng-fen-qu-yu-zui-di-gong-zi-biao-zhun/"/>
       <url>/hu-bei-sheng-fen-qu-yu-zui-di-gong-zi-biao-zhun/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h2 id="武汉市人社局关于调整全市最低工资标准的通知（武人社发〔2017〕72号）"><a href="#武汉市人社局关于调整全市最低工资标准的通知（武人社发〔2017〕72号）" class="headerlink" title="武汉市人社局关于调整全市最低工资标准的通知（武人社发〔2017〕72号）"></a>武汉市人社局关于调整全市最低工资标准的通知（武人社发〔2017〕72号）</h2><p>江岸区、江汉区、硚口区、汉阳区、武昌区、洪山区、青山区、东西湖区、汉南区、东湖新技术开发区、武汉经济技术开发区、东湖生态旅游风景区、武汉化学工业区、武汉临空港经济技术开发区全日制就业劳动者最低工资标准为1750元/月，非全日制就业劳动者小时最低工资标准为18元/小时；<br>蔡甸区、江夏区、黄陂区、新洲区全日制就业劳动者最低工资标准为1500元/月，非全日制就业劳动者小时最低工资标准为16元/小时。</p><a id="more"></a><p><img src="https://wx4.sinaimg.cn/large/4d404eb3gy1g0j0pbl7htj20gu0jyq7w.jpg" alt="湖北省分区域最低工作标准-鄂政发〔2017〕44号"></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h2 id="武汉市人社局关于调整全市最低工资标准的通知（武人社发〔2017〕72号）"><a href="#武汉市人社局关于调整全市最低工资标准的通知（武人社发〔2017〕72号）" class="headerlink" title="武汉市人社局关于调整全市最低工资标准的通知（武人社发〔2017〕72号）"></a>武汉市人社局关于调整全市最低工资标准的通知（武人社发〔2017〕72号）</h2><p>江岸区、江汉区、硚口区、汉阳区、武昌区、洪山区、青山区、东西湖区、汉南区、东湖新技术开发区、武汉经济技术开发区、东湖生态旅游风景区、武汉化学工业区、武汉临空港经济技术开发区全日制就业劳动者最低工资标准为1750元/月，非全日制就业劳动者小时最低工资标准为18元/小时；<br>蔡甸区、江夏区、黄陂区、新洲区全日制就业劳动者最低工资标准为1500元/月，非全日制就业劳动者小时最低工资标准为16元/小时。</p><a id="more"></a><p><img src="../images/2019/min-wages.jpg" alt="湖北省分区域最低工作标准-鄂政发〔2017〕44号"></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
       
       <categories>
@@ -504,7 +533,7 @@
       <link href="/macos-geng-xin-hou-homebrew-bao-cuo-chu-li-fang-an/"/>
       <url>/macos-geng-xin-hou-homebrew-bao-cuo-chu-li-fang-an/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="报错内容"><a href="#报错内容" class="headerlink" title="报错内容"></a>报错内容</h1><p>在升级为 macOS Mojave 后发现 Homebrew 无法使用，具体报错信息如下：</p><pre class=" language-shell"><code class="language-shell">xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrunError: Failure while executing; `git config --local --replace-all homebrew.private true` exited with 1.</code></pre><h1 id="查询及解决"><a href="#查询及解决" class="headerlink" title="查询及解决"></a>查询及解决</h1><p>使用 Google 查询后，在 Stackxchange 上找到了一篇相关文章 <a href="https://apple.stackexchange.com/questions/209624/how-to-fix-homebrew-error-invalid-active-developer-path-after-upgrade-to-os-x" rel="external nofollow noopener noreferrer" target="_blank">How to fix homebrew error: “invalid active developer path” after upgrade to OS X El Capitan?</a> 讲了解决方案。</p><p>简单说就是因为系统升级把 XCode-CLI 给卸载了，需要重新安装才能使用，因此只要通过终端再次安装即可。</p><p>解决办法为，打开终端后，输入<code>xcode-select --install</code>，安装即可。</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h2 id="报错内容"><a href="#报错内容" class="headerlink" title="报错内容"></a>报错内容</h2><p>在升级为 macOS Mojave 后发现 Homebrew 无法使用，具体报错信息如下：</p><pre class=" language-shell"><code class="language-shell">xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrunError: Failure while executing; `git config --local --replace-all homebrew.private true` exited with 1.</code></pre><h2 id="查询及解决"><a href="#查询及解决" class="headerlink" title="查询及解决"></a>查询及解决</h2><p>使用 Google 查询后，在 Stackxchange 上找到了一篇相关文章 <a href="https://apple.stackexchange.com/questions/209624/how-to-fix-homebrew-error-invalid-active-developer-path-after-upgrade-to-os-x" rel="external nofollow noopener noreferrer" target="_blank">How to fix homebrew error: “invalid active developer path” after upgrade to OS X El Capitan?</a> 讲了解决方案。</p><p>简单说就是因为系统升级把 XCode-CLI 给卸载了，需要重新安装才能使用，因此只要通过终端再次安装即可。</p><p>解决办法为，打开终端后，输入<code>xcode-select --install</code>，安装即可。</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
       
       <categories>
@@ -543,9 +572,9 @@
       
         <tags>
             
-            <tag> macOS </tag>
-            
             <tag> APP </tag>
+            
+            <tag> macOS </tag>
             
             <tag> 输入法 </tag>
             
@@ -574,9 +603,9 @@
       
         <tags>
             
-            <tag> macOS </tag>
-            
             <tag> APP </tag>
+            
+            <tag> macOS </tag>
             
             <tag> AppleScript </tag>
             
@@ -603,9 +632,9 @@
       
         <tags>
             
-            <tag> macOS </tag>
-            
             <tag> APP </tag>
+            
+            <tag> macOS </tag>
             
             <tag> Homebrew </tag>
             
@@ -696,11 +725,11 @@
       
         <tags>
             
+            <tag> APP </tag>
+            
             <tag> iOS </tag>
             
             <tag> macOS </tag>
-            
-            <tag> APP </tag>
             
             <tag> Homebrew </tag>
             
@@ -756,11 +785,11 @@
       
         <tags>
             
+            <tag> APP </tag>
+            
             <tag> macOS </tag>
             
             <tag> PDF </tag>
-            
-            <tag> APP </tag>
             
             <tag> 效率工具 </tag>
             
@@ -1084,11 +1113,11 @@
       
         <tags>
             
+            <tag> APP </tag>
+            
             <tag> iOS </tag>
             
             <tag> macOS </tag>
-            
-            <tag> APP </tag>
             
             <tag> 输入法 </tag>
             
@@ -1173,11 +1202,11 @@
       
         <tags>
             
+            <tag> APP </tag>
+            
             <tag> iOS </tag>
             
             <tag> Workflow </tag>
-            
-            <tag> APP </tag>
             
             <tag> Due </tag>
             
@@ -1904,9 +1933,9 @@
             
             <tag> 知识产权法 </tag>
             
-            <tag> 著作权法 </tag>
-            
             <tag> 知乎 </tag>
+            
+            <tag> 著作权法 </tag>
             
         </tags>
       
