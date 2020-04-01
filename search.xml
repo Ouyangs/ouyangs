@@ -727,9 +727,9 @@
             
             <tag> APP </tag>
             
-            <tag> iOS </tag>
-            
             <tag> macOS </tag>
+            
+            <tag> iOS </tag>
             
             <tag> Homebrew </tag>
             
@@ -758,9 +758,9 @@
             
             <tag> macOS </tag>
             
-            <tag> Python </tag>
-            
             <tag> Homebrew </tag>
+            
+            <tag> Python </tag>
             
         </tags>
       
@@ -1115,9 +1115,9 @@
             
             <tag> APP </tag>
             
-            <tag> iOS </tag>
-            
             <tag> macOS </tag>
+            
+            <tag> iOS </tag>
             
             <tag> 输入法 </tag>
             
