@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://imouyang.com/"/>
-  <updated>2020-03-06T16:07:48.083Z</updated>
+  <updated>2020-05-02T09:56:10.535Z</updated>
   <id>https://imouyang.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>说说消费券</title>
+    <link href="https://imouyang.com/shuo-shuo-xiao-fei-quan/"/>
+    <id>https://imouyang.com/shuo-shuo-xiao-fei-quan/</id>
+    <published>2020-05-02T09:55:32.000Z</published>
+    <updated>2020-05-02T09:56:10.535Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;h2 id=&quot;谁有资格领消费券&quot;&gt;&lt;a href=&quot;#谁有资格领消费券&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Blog" scheme="https://imouyang.com/categories/Blog/"/>
+    
+    
+      <category term="经济学" scheme="https://imouyang.com/tags/%E7%BB%8F%E6%B5%8E%E5%AD%A6/"/>
+    
+  </entry>
   
   <entry>
     <title>oh-my-zsh升级失败的解决方法</title>
@@ -531,35 +558,6 @@
       <category term="合同附随义务" scheme="https://imouyang.com/tags/%E5%90%88%E5%90%8C%E9%99%84%E9%9A%8F%E4%B9%89%E5%8A%A1/"/>
     
       <category term="装饰装修补偿" scheme="https://imouyang.com/tags/%E8%A3%85%E9%A5%B0%E8%A3%85%E4%BF%AE%E8%A1%A5%E5%81%BF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>macOS 更新后 Homebrew 报错处理方案</title>
-    <link href="https://imouyang.com/macos-geng-xin-hou-homebrew-bao-cuo-chu-li-fang-an/"/>
-    <id>https://imouyang.com/macos-geng-xin-hou-homebrew-bao-cuo-chu-li-fang-an/</id>
-    <published>2018-10-20T07:12:14.000Z</published>
-    <updated>2020-03-06T15:59:35.701Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;h2 id=&quot;报错内容&quot;&gt;&lt;a href=&quot;#报错内容&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="Blog" scheme="https://imouyang.com/categories/Blog/"/>
-    
-    
-      <category term="macOS" scheme="https://imouyang.com/tags/macOS/"/>
-    
-      <category term="Homebrew" scheme="https://imouyang.com/tags/Homebrew/"/>
     
   </entry>
   
