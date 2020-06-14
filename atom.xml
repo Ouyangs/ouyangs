@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://imouyang.com/"/>
-  <updated>2020-05-02T14:48:46.017Z</updated>
+  <updated>2020-06-14T01:13:30.920Z</updated>
   <id>https://imouyang.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>为什么你就不喜欢发关于我的朋友圈了呢</title>
-    <link href="https://imouyang.com/wei-shi-me-ni-jiu-bu-xi-huan-fa-guan-yu-wo-de-peng-you-quan-liao-ni/"/>
-    <id>https://imouyang.com/wei-shi-me-ni-jiu-bu-xi-huan-fa-guan-yu-wo-de-peng-you-quan-liao-ni/</id>
-    <published>2020-05-02T14:47:01.000Z</published>
-    <updated>2020-05-02T14:48:46.017Z</updated>
+    <title>Node14报错</title>
+    <link href="https://imouyang.com/node14-bao-cuo/"/>
+    <id>https://imouyang.com/node14-bao-cuo/</id>
+    <published>2020-06-14T01:13:08.000Z</published>
+    <updated>2020-06-14T01:13:30.920Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,34 @@
       
         
         
-          &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;h3 id=&quot;写在前面的话&quot;&gt;&lt;a href=&quot;#写在前面的话&quot;
+          &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;h2 id=&quot;环境与版本&quot;&gt;&lt;a href=&quot;#环境与版本&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Blog" scheme="https://imouyang.com/categories/Blog/"/>
+    
+    
+      <category term="Hexo" scheme="https://imouyang.com/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>为什么你就不喜欢发关于我的朋友圈了呢</title>
+    <link href="https://imouyang.com/wei-shi-me-ni-jiu-bu-xi-huan-fa-guan-yu-wo-de-peng-you-quan-liao-ni/"/>
+    <id>https://imouyang.com/wei-shi-me-ni-jiu-bu-xi-huan-fa-guan-yu-wo-de-peng-you-quan-liao-ni/</id>
+    <published>2020-05-02T14:47:01.000Z</published>
+    <updated>2020-05-02T14:53:05.423Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;h2 id=&quot;写在前面的话&quot;&gt;&lt;a href=&quot;#写在前面的话&quot;
         
       
     
@@ -526,34 +553,6 @@
       <category term="劳动关系" scheme="https://imouyang.com/tags/%E5%8A%B3%E5%8A%A8%E5%85%B3%E7%B3%BB/"/>
     
       <category term="用工之日" scheme="https://imouyang.com/tags/%E7%94%A8%E5%B7%A5%E4%B9%8B%E6%97%A5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>银行能否就破产债务人的存款行使抵销权</title>
-    <link href="https://imouyang.com/yin-xing-neng-fou-jiu-po-chan-zhai-wu-ren-de-cun-kuan-xing-shi-di-xiao-quan/"/>
-    <id>https://imouyang.com/yin-xing-neng-fou-jiu-po-chan-zhai-wu-ren-de-cun-kuan-xing-shi-di-xiao-quan/</id>
-    <published>2018-10-31T13:18:11.000Z</published>
-    <updated>2018-11-06T10:59:06.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;基本案情&quot;&gt;&lt;a href=&quot;#基本案情&quot; class=&quot;headerlink&quot; title=&quot;基本案情&quot;&gt;&lt;/a&gt;基本案情&lt;/h1&gt;&lt;p&gt;案例的案号为（2016）浙民终 523 号，简要而言，银行对破产债务人在该银行存款账户进行扣划行为，是否属于行使抵销权的行为。&lt;/p&gt;
-&lt;p&gt;根据《中华人民共和国企业破产法》第四十条之规定，债权人在破产申请受理前对债务人负有债务的，可以向管理人主张抵销。债务人在破产申请受理前在贷款银行的一般存款，可否认定为债权银行对债务人负有的债务，并与贷款相互抵销？&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="法学" scheme="https://imouyang.com/categories/%E6%B3%95%E5%AD%A6/"/>
-    
-    
-      <category term="破产法" scheme="https://imouyang.com/tags/%E7%A0%B4%E4%BA%A7%E6%B3%95/"/>
-    
-      <category term="抵销权" scheme="https://imouyang.com/tags/%E6%8A%B5%E9%94%80%E6%9D%83/"/>
-    
-      <category term="观念交付" scheme="https://imouyang.com/tags/%E8%A7%82%E5%BF%B5%E4%BA%A4%E4%BB%98/"/>
-    
-      <category term="优先受偿权" scheme="https://imouyang.com/tags/%E4%BC%98%E5%85%88%E5%8F%97%E5%81%BF%E6%9D%83/"/>
     
   </entry>
   

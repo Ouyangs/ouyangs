@@ -4,11 +4,36 @@
   
     
     <entry>
+      <title>Node14报错</title>
+      <link href="/node14-bao-cuo/"/>
+      <url>/node14-bao-cuo/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h2 id="环境与版本"><a href="#环境与版本" class="headerlink" title="环境与版本"></a>环境与版本</h2><ul><li>系统：macOS Catalina 10.15.5</li><li>Node: v14.0.0</li><li>Hexo<ul><li>hexo: 4.2.1</li><li>hexo-cli: 3.1.0</li><li>os: Darwin 19.5.0 darwin x64</li><li>node: 12.18.0</li><li>v8: 7.8.279.23-node.37</li><li>uv: 1.37.0</li><li>zlib: 1.2.11</li><li>brotli: 1.0.7</li><li>ares: 1.16.0</li><li>modules: 72</li><li>nghttp2: 1.41.0</li><li>napi: 6</li><li>llhttp: 2.0.4</li><li>http_parser: 2.9.3</li><li>openssl: 1.1.1g</li><li>cldr: 37.0</li><li>icu: 67.1</li><li>tz: 2019c</li><li>unicode: 13.0</li></ul></li></ul><h2 id="问题与报错"><a href="#问题与报错" class="headerlink" title="问题与报错"></a>问题与报错</h2><p>运行 ‘hexo g’ 之后提示如下：</p><pre class=" language-shell"><code class="language-shell">(node:6563) Warning: Accessing non-existent property 'lineno' of module exports inside circular dependency(Use `node --trace-warnings ...` to show where the warning was created)(node:6563) Warning: Accessing non-existent property 'column' of module exports inside circular dependency(node:6563) Warning: Accessing non-existent property 'filename' of module exports inside circular dependency(node:6563) Warning: Accessing non-existent property 'lineno' of module exports inside circular dependency(node:6563) Warning: Accessing non-existent property 'column' of module exports inside circular dependency(node:6563) Warning: Accessing non-existent property 'filename' of module exports inside circular dependency</code></pre><h2 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h2><p>根据报错信息搜索，找到了 Hexo 下面 issue 一篇帖子：<a href="https://github.com/hexojs/hexo/issues/4257" rel="external nofollow noopener noreferrer" target="_blank">Warning: Accessing non-existent property ‘lineno’ of module exports inside circular dependency</a></p><p>于是在终端里输入了下面命令</p><pre class=" language-shell"><code class="language-shell">brew uninstall nodebrew install node@12brew link --overwrite --force node@12</code></pre><p>最终提示为</p><pre class=" language-shell"><code class="language-shell">Linking /usr/local/Cellar/node@12/12.18.0... 3821 symlinks createdIf you need to have this software first in your PATH instead consider running:  echo 'export PATH="/usr/local/opt/node@12/bin:$PATH"' >> ~/.zshrc</code></pre><p>成功解决，顺利取得</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> Blog </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>为什么你就不喜欢发关于我的朋友圈了呢</title>
       <link href="/wei-shi-me-ni-jiu-bu-xi-huan-fa-guan-yu-wo-de-peng-you-quan-liao-ni/"/>
       <url>/wei-shi-me-ni-jiu-bu-xi-huan-fa-guan-yu-wo-de-peng-you-quan-liao-ni/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h3 id="写在前面的话"><a href="#写在前面的话" class="headerlink" title="写在前面的话"></a>写在前面的话</h3><p><img src="../images/2020/t&amp;t-wechat.jpeg" alt="之前发的蛮好！"></p><p>这是一个关于我的同学小L和她男朋友之间吵架所引发出来的故事。</p><p>开篇点题、声明立场：我也不喜欢发太多关于生活的朋友圈，其次，即便是发朋友圈，自己也会做特别分组可见。</p><h2 id="这不是个例"><a href="#这不是个例" class="headerlink" title="这不是个例"></a>这不是个例</h2><p><img src="../images/2020/t&amp;t-zhihu.png" alt="知乎提问"><br><br>不发朋友圈、不在朋友圈「秀」自己女朋友、男朋友，似乎是一个超级大的问题？不发就是不在乎对方、怕将另一半暴露于自己的亲朋好友面前？或者说，以前经常发、很喜欢发，现在突然就不发了，就是变心了？</p><p>也许只是，简简单单不喜欢发了而已，某些开心与喜悦，归于平淡和陪伴。</p><h2 id="尊重科学，利用规律"><a href="#尊重科学，利用规律" class="headerlink" title="尊重科学，利用规律"></a>尊重科学，利用规律</h2><p>已经研究证实的，恋爱或者说爱情，与人体多种激素和大脑区域相关。人类作为灵长类动物，恋爱活动本身是超越基本的生理行为、繁衍行为。初期可能因为爬虫脑执行的高效性，而快于哺乳脑、皮质脑，产生一些冲动的、不像自己平时可能作出来的行为。这个时候的恋爱是盲目的、冲动的，但是奖赏机制的回馈也是最强烈的。换言之，这个时候大脑分泌出来的种种性激素、肾上腺素和多巴胺，会给自己强烈的反馈。比如，在双方见面时，迅速分泌的肾上腺素刺激心跳加快、甚至冒汗等。又比如，多巴胺可以使人增加精力，降低对睡眠和食物的需求，表现为经常煲电话粥、聊微信，聊到错过饭点、一起熬夜。<br>以上种种反馈、体验，会让人产生「上瘾」的感觉，而这种感觉又并非像毒品那般只存在于过去，它会因双方关系的改变、因共同事件的经历而产生诸多微妙变化，这种现象又叫做「奖赏机制」。似乎可以理解为，当你玩游戏通关时，你会得到金币或者道具的奖励，而上面说的激素、神经递质以及各种人体活动，就是奖赏机制下的金币、道具。</p><p>不知道是有趣，还是不幸。一方面，奖赏机制存在奖赏衰退现象，即同样的活动、同样的激素分泌，给自身产生的「奖赏体验」是逐步衰退的。<br>类比咖啡因（同样是刺激神经系统，可以让神经系统兴奋，增加精力），初服咖啡因时，大脑会特别敏感而兴奋，有的人会过度兴奋到失眠，可随着剂量的不断摄入，大脑会慢慢变得不那么敏感，甚至不起作用。在恋爱中，每次约会都是去看电影、逛街，大脑产生的激素水平会降低，相互之间的好感会衰减，最后变成平平无期的路人（不，在这之前一定会大吵大闹的，因为大脑并不只是产生一种激素、进行这一项大脑活动）。</p><p>另一方面，恋爱活动的大脑活动也是分为不同的阶段，从「三体脑」一说，到Fisher提出的爱情三个阶段，都可以认为，从最原始的生理冲动、激素刺激，到相互陪伴、相互思念（甚至是想要24小时跟对方黏在一起），再到依赖与依恋（变成自己社会活动的一部分，无法分隔），恋爱活动所产生的激素类型以及神经系统的反馈是不同的。比如，多巴胺是让自己产生想与对方无时无刻都黏在一起的主要神经递质，可是当双方在一起较长时间之后，这种激素的分泌量会下降，催产素和加压素的分泌量则会增加，表现为逐渐知足，减少焦虑，相互增加信任和平静感、安全感。</p><p>如果说某件事情，对方之前都做得很开心，但是突然有一天，对方不做了，那可能是你们之间的关系进入到了一个新的阶段。这个时候，无需过于苛责对方和自己，请尊重科学。当然，也可以好好利用其中的规律。例如，共同体验新鲜事物，去不同的地方旅行，多给予信任而非猜测。因为，恋人都只是被大脑和激素所「操控」的、平平无奇的一双人。</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h2 id="写在前面的话"><a href="#写在前面的话" class="headerlink" title="写在前面的话"></a>写在前面的话</h2><p><img src="../images/2020/t&amp;t-wechat.jpeg" alt="之前发的蛮好！"></p><p>这是一个关于我的同学小L和她男朋友之间吵架所引发出来的故事。</p><p>开篇点题、声明立场：我也不喜欢发太多关于生活的朋友圈，其次，即便是发朋友圈，自己也会做特别分组可见。</p><h2 id="这不是个例"><a href="#这不是个例" class="headerlink" title="这不是个例"></a>这不是个例</h2><p><img src="../images/2020/t&amp;t-zhihu.png" alt="知乎提问"><br><br>不发朋友圈、不在朋友圈「秀」自己女朋友、男朋友，似乎是一个超级大的问题？不发就是不在乎对方、怕将另一半暴露于自己的亲朋好友面前？或者说，以前经常发、很喜欢发，现在突然就不发了，就是变心了？</p><p>也许只是，简简单单不喜欢发了而已，某些开心与喜悦，归于平淡和陪伴。</p><h2 id="尊重科学，利用规律"><a href="#尊重科学，利用规律" class="headerlink" title="尊重科学，利用规律"></a>尊重科学，利用规律</h2><p>已经研究证实的，恋爱或者说爱情，与人体多种激素和大脑区域相关。人类作为灵长类动物，恋爱活动本身是超越基本的生理行为、繁衍行为。初期可能因为爬虫脑执行的高效性，而快于哺乳脑、皮质脑，产生一些冲动的、不像自己平时可能作出来的行为。这个时候的恋爱是盲目的、冲动的，但是奖赏机制的回馈也是最强烈的。换言之，这个时候大脑分泌出来的种种性激素、肾上腺素和多巴胺，会给自己强烈的反馈。比如，在双方见面时，迅速分泌的肾上腺素刺激心跳加快、甚至冒汗等。又比如，多巴胺可以使人增加精力，降低对睡眠和食物的需求，表现为经常煲电话粥、聊微信，聊到错过饭点、一起熬夜。<br>以上种种反馈、体验，会让人产生「上瘾」的感觉，而这种感觉又并非像毒品那般只存在于过去，它会因双方关系的改变、因共同事件的经历而产生诸多微妙变化，这种现象又叫做「奖赏机制」。似乎可以理解为，当你玩游戏通关时，你会得到金币或者道具的奖励，而上面说的激素、神经递质以及各种人体活动，就是奖赏机制下的金币、道具。</p><p>不知道是有趣，还是不幸。一方面，奖赏机制存在奖赏衰退现象，即同样的活动、同样的激素分泌，给自身产生的「奖赏体验」是逐步衰退的。<br>类比咖啡因（同样是刺激神经系统，可以让神经系统兴奋，增加精力），初服咖啡因时，大脑会特别敏感而兴奋，有的人会过度兴奋到失眠，可随着剂量的不断摄入，大脑会慢慢变得不那么敏感，甚至不起作用。在恋爱中，每次约会都是去看电影、逛街，大脑产生的激素水平会降低，相互之间的好感会衰减，最后变成平平无期的路人（不，在这之前一定会大吵大闹的，因为大脑并不只是产生一种激素、进行这一项大脑活动）。</p><p>另一方面，恋爱活动的大脑活动也是分为不同的阶段，从「三体脑」一说，到Fisher提出的爱情三个阶段，都可以认为，从最原始的生理冲动、激素刺激，到相互陪伴、相互思念（甚至是想要24小时跟对方黏在一起），再到依赖与依恋（变成自己社会活动的一部分，无法分隔），恋爱活动所产生的激素类型以及神经系统的反馈是不同的。比如，多巴胺是让自己产生想与对方无时无刻都黏在一起的主要神经递质，可是当双方在一起较长时间之后，这种激素的分泌量会下降，催产素和加压素的分泌量则会增加，表现为逐渐知足，减少焦虑，相互增加信任和平静感、安全感。</p><p>如果说某件事情，对方之前都做得很开心，但是突然有一天，对方不做了，那可能是你们之间的关系进入到了一个新的阶段。这个时候，无需过于苛责对方和自己，请尊重科学。当然，也可以好好利用其中的规律。例如，共同体验新鲜事物，去不同的地方旅行，多给予信任而非猜测。因为，恋人都只是被大脑和激素所「操控」的、平平无奇的一双人。</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
       
       <categories>
@@ -1950,9 +1975,9 @@
       
         <tags>
             
-            <tag> 侵占罪 </tag>
-            
             <tag> 刑法 </tag>
+            
+            <tag> 侵占罪 </tag>
             
             <tag> 诈骗罪 </tag>
             
