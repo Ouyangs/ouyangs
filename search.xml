@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>2020年度湖北省道路交通事故损害赔偿标准</title>
+      <link href="/2020-nian-du-hu-bei-sheng-dao-lu-jiao-tong-shi-gu-sun-hai-pei-chang-biao-zhun/"/>
+      <url>/2020-nian-du-hu-bei-sheng-dao-lu-jiao-tong-shi-gu-sun-hai-pei-chang-biao-zhun/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h2 id="2020年度湖北省道路交通事故损害赔偿标准"><a href="#2020年度湖北省道路交通事故损害赔偿标准" class="headerlink" title="2020年度湖北省道路交通事故损害赔偿标准"></a>2020年度湖北省道路交通事故损害赔偿标准</h2><p><img src="/images/2020/cs1-hubei-2020.png" alt="湖北高院明传"></p><p><img src="/images/2020/cs2-hubei-2020.png" alt="赔偿标准"></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 精彩分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 交通事故 </tag>
+            
+            <tag> 湖北省 </tag>
+            
+            <tag> 赔偿标准 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Node14报错</title>
       <link href="/node14-bao-cuo/"/>
       <url>/node14-bao-cuo/</url>
@@ -1975,9 +2004,9 @@
       
         <tags>
             
-            <tag> 刑法 </tag>
-            
             <tag> 侵占罪 </tag>
+            
+            <tag> 刑法 </tag>
             
             <tag> 诈骗罪 </tag>
             
@@ -2008,9 +2037,9 @@
             
             <tag> 知识产权法 </tag>
             
-            <tag> 著作权法 </tag>
-            
             <tag> 知乎 </tag>
+            
+            <tag> 著作权法 </tag>
             
         </tags>
       
