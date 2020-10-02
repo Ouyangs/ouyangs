@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://imouyang.com/"/>
-  <updated>2020-09-20T13:36:43.947Z</updated>
+  <updated>2020-10-02T09:08:18.045Z</updated>
   <id>https://imouyang.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>qpdf使用笔记</title>
+    <link href="https://imouyang.com/qpdf-shi-yong-bi-ji/"/>
+    <id>https://imouyang.com/qpdf-shi-yong-bi-ji/</id>
+    <published>2020-10-02T09:07:29.000Z</published>
+    <updated>2020-10-02T09:08:18.045Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;h2 id=&quot;Homebrew的安装&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Blog" scheme="https://imouyang.com/categories/Blog/"/>
+    
+    
+      <category term="Homebrew" scheme="https://imouyang.com/tags/Homebrew/"/>
+    
+      <category term="PDF" scheme="https://imouyang.com/tags/PDF/"/>
+    
+  </entry>
   
   <entry>
     <title>2020年度湖北省道路交通事故损害赔偿标准</title>
@@ -521,35 +550,6 @@
       <category term="插件" scheme="https://imouyang.com/tags/%E6%8F%92%E4%BB%B6/"/>
     
       <category term="汉字" scheme="https://imouyang.com/tags/%E6%B1%89%E5%AD%97/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>乱弹 20181116</title>
-    <link href="https://imouyang.com/luan-dan-20181116/"/>
-    <id>https://imouyang.com/luan-dan-20181116/</id>
-    <published>2018-11-17T14:16:43.000Z</published>
-    <updated>2018-11-17T14:51:18.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;blockquote&gt;
-&lt;p&gt;法理学不行，也成不了部门法的大家。真正的大师都是法理学学者。——梁木生老师&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-    
-      <category term="Blog" scheme="https://imouyang.com/categories/Blog/"/>
-    
-    
-      <category term="社会责任" scheme="https://imouyang.com/tags/%E7%A4%BE%E4%BC%9A%E8%B4%A3%E4%BB%BB/"/>
-    
-      <category term="消费者" scheme="https://imouyang.com/tags/%E6%B6%88%E8%B4%B9%E8%80%85/"/>
-    
-      <category term="成本收益" scheme="https://imouyang.com/tags/%E6%88%90%E6%9C%AC%E6%94%B6%E7%9B%8A/"/>
-    
-      <category term="乱弹" scheme="https://imouyang.com/tags/%E4%B9%B1%E5%BC%B9/"/>
     
   </entry>
   

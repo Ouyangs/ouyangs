@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>qpdf使用笔记</title>
+      <link href="/qpdf-shi-yong-bi-ji/"/>
+      <url>/qpdf-shi-yong-bi-ji/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h2 id="Homebrew的安装"><a href="#Homebrew的安装" class="headerlink" title="Homebrew的安装"></a>Homebrew的安装</h2><p><code>$ brew install qpdf</code></p><h2 id="用法"><a href="#用法" class="headerlink" title="用法"></a>用法</h2><h3 id="合并"><a href="#合并" class="headerlink" title="合并"></a>合并</h3><ol><li><p>将A.pdf和B.pdf合并C.pdf，A在前，B在后：</p><pre class=" language-shell"><code class="language-shell"> qpdf  B.pdf --pages A.pdf . -- C.pdf</code></pre></li><li><p>将A.pdf、B.pdf、C.pdf合并成D.pdf：</p><pre class=" language-shell"><code class="language-shell"> qpdf  C.pdf --pages A.pdf B.pdf . -- D.pdf</code></pre></li><li><p>将A.pdf的1-5页和B.pdf的2-3页合并成C.pdf：</p><pre class=" language-shell"><code class="language-shell"> qpdf  B.pdf --pages A.pdf 1-5 . 2-3 -- C.pdf</code></pre></li><li><p>将文件夹下所有pdf合并为out.pdf：</p><pre class=" language-shell"><code class="language-shell"> qpdf --pages *.pdf --out.pdf</code></pre></li></ol><h3 id="拆分"><a href="#拆分" class="headerlink" title="拆分"></a>拆分</h3><p>–split-pages：该选项用于将 PDF 文件拆分成单页；如果想拆分成每 2 页一组的文件，则可以使用 –split-pages=2。</p><pre class=" language-shell"><code class="language-shell">qpdf --split-pages=2 001.pdf -- 001.pdf</code></pre><h3 id="分割"><a href="#分割" class="headerlink" title="分割"></a>分割</h3><ol><li><p>从原文件中取出n-m页，保留原文件的目录格式：</p><pre class=" language-shell"><code class="language-shell"> qpdf infile.pdf --pages . n-m -- outfile.pdf</code></pre></li><li><p>从原文件中取出n-m页，不保留原文件的目录格式：</p><pre class=" language-shell"><code class="language-shell"> qpdf --empty --pages infile.pdf n-m -- outfile.pdf</code></pre></li><li><p>将原文件的每一页单独保存为一个文件：</p><pre class=" language-shell"><code class="language-shell"> qpdf --split-pages infile.pdf outfile.pdf</code></pre></li><li><p>将原文件的每N页单独保存为一个文件：</p><pre class=" language-shell"><code class="language-shell"> qpdf --split-pages=N infile.pdf outfile.pdf</code></pre></li></ol><h3 id="移除PDF文件密码"><a href="#移除PDF文件密码" class="headerlink" title="移除PDF文件密码"></a>移除PDF文件密码</h3><p>假设密码为123456</p><pre class=" language-shell"><code class="language-shell">qpdf --password='123456' --decrypt infile.pdf outfile.pdf</code></pre><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> Blog </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Homebrew </tag>
+            
+            <tag> PDF </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>2020年度湖北省道路交通事故损害赔偿标准</title>
       <link href="/2020-nian-du-hu-bei-sheng-dao-lu-jiao-tong-shi-gu-sun-hai-pei-chang-biao-zhun/"/>
       <url>/2020-nian-du-hu-bei-sheng-dao-lu-jiao-tong-shi-gu-sun-hai-pei-chang-biao-zhun/</url>
@@ -2037,9 +2064,9 @@
             
             <tag> 知识产权法 </tag>
             
-            <tag> 知乎 </tag>
-            
             <tag> 著作权法 </tag>
+            
+            <tag> 知乎 </tag>
             
         </tags>
       
