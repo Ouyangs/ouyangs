@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://imouyang.com/"/>
-  <updated>2020-10-02T09:08:18.045Z</updated>
+  <updated>2021-02-09T13:58:51.468Z</updated>
   <id>https://imouyang.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>flash的卸载</title>
+    <link href="https://imouyang.com/flash-de-xie-zai/"/>
+    <id>https://imouyang.com/flash-de-xie-zai/</id>
+    <published>2021-02-09T06:58:25.000Z</published>
+    <updated>2021-02-09T13:58:51.468Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;h2 id=&quot;起因&quot;&gt;&lt;a href=&quot;#起因&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>qpdf使用笔记</title>
@@ -39,9 +62,9 @@
       <category term="Blog" scheme="https://imouyang.com/categories/Blog/"/>
     
     
-      <category term="PDF" scheme="https://imouyang.com/tags/PDF/"/>
-    
       <category term="Homebrew" scheme="https://imouyang.com/tags/Homebrew/"/>
+    
+      <category term="PDF" scheme="https://imouyang.com/tags/PDF/"/>
     
   </entry>
   
@@ -525,31 +548,6 @@
       <category term="湖北省" scheme="https://imouyang.com/tags/%E6%B9%96%E5%8C%97%E7%9C%81/"/>
     
       <category term="律师收费" scheme="https://imouyang.com/tags/%E5%BE%8B%E5%B8%88%E6%94%B6%E8%B4%B9/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>盘古之白</title>
-    <link href="https://imouyang.com/pan-gu-zhi-bai/"/>
-    <id>https://imouyang.com/pan-gu-zhi-bai/</id>
-    <published>2018-12-03T05:39:22.000Z</published>
-    <updated>2018-12-05T13:40:09.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;「一群」有趣的插件，用了就有点离不开了。简单说就是在数字或字母与汉字之间添加一个半角空格。这并非是什么规范，只是一个使用习惯，或者「强迫症」。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="精彩分享" scheme="https://imouyang.com/categories/%E7%B2%BE%E5%BD%A9%E5%88%86%E4%BA%AB/"/>
-    
-    
-      <category term="排版" scheme="https://imouyang.com/tags/%E6%8E%92%E7%89%88/"/>
-    
-      <category term="插件" scheme="https://imouyang.com/tags/%E6%8F%92%E4%BB%B6/"/>
-    
-      <category term="汉字" scheme="https://imouyang.com/tags/%E6%B1%89%E5%AD%97/"/>
     
   </entry>
   

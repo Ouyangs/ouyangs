@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>flash的卸载</title>
+      <link href="/flash-de-xie-zai/"/>
+      <url>/flash-de-xie-zai/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h2 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h2><p>Chrome 和 Firefox 全面禁用 Adobe Flash，导致单位的办公系统无法使用上传功能。在网管人员的「建议」之下，安装了因国内某公司提供服务的「特供版」Flash，确实可用。出于心理洁癖，不信赖国产厂商，所以想卸载这个 APP，但在 AppCleaner 和 CleanMyMac 的软件列表中均未找到它，在/Application 文件夹中也未找到相应文件，所以才有本文。</p><h2 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h2><p>以下内容来自：<a href="https://helpx.adobe.com/cn/flash-player/kb/uninstall-flash-player-mac-os.html#OS_X_10_4_and_later" rel="external nofollow noopener noreferrer" target="_blank">在 macOS 中卸载 Flash Player</a>，可直接查看 Adobe 官网，获取最新内容。</p><ol><li><p>下载 Adobe Flash Player 卸载程序</p><ul><li>Mac OS X 版本 10.6 及更高版本：<a href="https://fpdownload.macromedia.com/get/flashplayer/current/support/uninstall_flash_player_osx.dmg" rel="external nofollow noopener noreferrer" target="_blank">uninstall_flash_player_osx.dmg</a></li><li>Mac OS X 版本 10.4 和 10.5：<a href="https://fpdownload.macromedia.com/get/flashplayer/current/support/uninstall_flash_player_osx_10.4.dmg" rel="external nofollow noopener noreferrer" target="_blank">uninstall_flash_player_osx.dmg</a></li></ul></li><li><p>双击打开所下载的「卸载程序」，按照提示运行至卸载完成</p><p> <img src="https://raw.githubusercontent.com/sawyeron/Pics/master/uPic/202102-vlvvrZ.jpg" alt="卸载完成"></p></li><li><p>清理卸载残余垃圾</p><ul><li>&lt;个人目录&gt;/资源库/Preferences/Macromedia/Flash\ Player</li><li>&lt;个人目录&gt;/资源库/Caches/Adobe/Flash\ Player</li></ul></li><li><p>卸载完成</p></li></ol><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>qpdf使用笔记</title>
       <link href="/qpdf-shi-yong-bi-ji/"/>
       <url>/qpdf-shi-yong-bi-ji/</url>
@@ -20,9 +33,9 @@
       
         <tags>
             
-            <tag> PDF </tag>
-            
             <tag> Homebrew </tag>
+            
+            <tag> PDF </tag>
             
         </tags>
       
@@ -858,11 +871,11 @@
             
             <tag> APP </tag>
             
+            <tag> iOS </tag>
+            
             <tag> macOS </tag>
             
             <tag> Homebrew </tag>
-            
-            <tag> iOS </tag>
             
         </tags>
       
@@ -1246,9 +1259,9 @@
             
             <tag> APP </tag>
             
-            <tag> macOS </tag>
-            
             <tag> iOS </tag>
+            
+            <tag> macOS </tag>
             
             <tag> 输入法 </tag>
             
