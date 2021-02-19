@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>碎碎念之你好李焕英</title>
+      <link href="/sui-sui-nian-zhi-ni-hao-li-huan-ying/"/>
+      <url>/sui-sui-nian-zhi-ni-hao-li-huan-ying/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h2 id="说在前面的话"><a href="#说在前面的话" class="headerlink" title="说在前面的话"></a>说在前面的话</h2><p>一定要放低要求，这只是商业电影。至于我们期待（购买）的，不管是包袱，还是情怀，是特效，还是剧情，都是殊途同归。毕竟它是春节票房的重要成员，能拿下这样档期的位置，都有值得肯定的东西。</p><h2 id="几句碎碎念"><a href="#几句碎碎念" class="headerlink" title="几句碎碎念"></a>几句碎碎念</h2><h3 id="说着东北话的湖北人"><a href="#说着东北话的湖北人" class="headerlink" title="说着东北话的湖北人"></a>说着东北话的湖北人</h3><p>不论是媒体宣传还是剧中车辆的车牌号，都可以知道故事发生在湖北，但是整部剧都一直是东北话贯穿始终，就连台上表演的节目都是二人转。为了迎合观众的预期和一贯认知，太拼了。<br>而且，真实世界里的李焕英，真的是想看贾玲的二人转表演么？会哭成那个样子吗？</p><h3 id="是梦还是穿越"><a href="#是梦还是穿越" class="headerlink" title="是梦还是穿越"></a>是梦还是穿越</h3><p>不少人都认为这部剧是穿越剧情，但是我更倾向于认为这是女主在母亲病床前的一场梦。梦里自己与母亲进行了一场倾诉与对话，表达自己感情。<br>第一，她从2001年「穿越」回到1981年的时候，周边环境的颜色是从黑白慢慢变成彩色的，穿越是无需如此的。<br>第二，与年轻李焕英第一次见面，直接被安排了远方表妹的角色，这是被认为（解释）为穿越剧的理由之一，但是更不合逻辑的地方是，到了片尾、女主想要回去的时候，却才被告知李焕英也是「穿越」而来的。<br>第三，如果真的是穿越剧情，最后就无须安排敞篷车的场景，因为故事在1981的平行时空里就已经结束了。女主开车时候想象的对话场景，正是未完情愫的延续。</p><h3 id="感动自己与共情"><a href="#感动自己与共情" class="headerlink" title="感动自己与共情"></a>感动自己与共情</h3><p>有一个有意思的地方是，这部剧似乎做到了，即便是被剧透之后，还是会在片尾时候受到它的感染，泪水不禁地充盈自己的眼眶。<br>是的，看到最后被共情的观众，都是幸福的，因为他们从电影里看到自己和自己的母亲，想到自己母亲对自己的好。可是，并非所有家庭都是幸福的，并非天下所有母亲都是「李焕英」。即便是李焕英也会有想要贾玲上好学校的想法——健康快乐是好，要是能上好大学更好。</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> Blog </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 碎碎念 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>flash的卸载</title>
       <link href="/flash-de-xie-zai/"/>
       <url>/flash-de-xie-zai/</url>
@@ -11,6 +36,18 @@
         <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h2 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h2><p>Chrome 和 Firefox 全面禁用 Adobe Flash，导致单位的办公系统无法使用上传功能。在网管人员的「建议」之下，安装了因国内某公司提供服务的「特供版」Flash，确实可用。出于心理洁癖，不信赖国产厂商，所以想卸载这个 APP，但在 AppCleaner 和 CleanMyMac 的软件列表中均未找到它，在/Application 文件夹中也未找到相应文件，所以才有本文。</p><h2 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h2><p>以下内容来自：<a href="https://helpx.adobe.com/cn/flash-player/kb/uninstall-flash-player-mac-os.html#OS_X_10_4_and_later" rel="external nofollow noopener noreferrer" target="_blank">在 macOS 中卸载 Flash Player</a>，可直接查看 Adobe 官网，获取最新内容。</p><ol><li><p>下载 Adobe Flash Player 卸载程序</p><ul><li>Mac OS X 版本 10.6 及更高版本：<a href="https://fpdownload.macromedia.com/get/flashplayer/current/support/uninstall_flash_player_osx.dmg" rel="external nofollow noopener noreferrer" target="_blank">uninstall_flash_player_osx.dmg</a></li><li>Mac OS X 版本 10.4 和 10.5：<a href="https://fpdownload.macromedia.com/get/flashplayer/current/support/uninstall_flash_player_osx_10.4.dmg" rel="external nofollow noopener noreferrer" target="_blank">uninstall_flash_player_osx.dmg</a></li></ul></li><li><p>双击打开所下载的「卸载程序」，按照提示运行至卸载完成</p><p> <img src="https://raw.githubusercontent.com/sawyeron/Pics/master/uPic/202102-vlvvrZ.jpg" alt="卸载完成"></p></li><li><p>清理卸载残余垃圾</p><ul><li>&lt;个人目录&gt;/资源库/Preferences/Macromedia/Flash\ Player</li><li>&lt;个人目录&gt;/资源库/Caches/Adobe/Flash\ Player</li></ul></li><li><p>卸载完成</p></li></ol><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
       
+      <categories>
+          
+          <category> Blog </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> macOS </tag>
+            
+        </tags>
       
     </entry>
     
@@ -871,9 +908,9 @@
             
             <tag> APP </tag>
             
-            <tag> iOS </tag>
-            
             <tag> macOS </tag>
+            
+            <tag> iOS </tag>
             
             <tag> Homebrew </tag>
             
@@ -902,9 +939,9 @@
             
             <tag> macOS </tag>
             
-            <tag> Python </tag>
-            
             <tag> Homebrew </tag>
+            
+            <tag> Python </tag>
             
         </tags>
       
@@ -1259,9 +1296,9 @@
             
             <tag> APP </tag>
             
-            <tag> iOS </tag>
-            
             <tag> macOS </tag>
+            
+            <tag> iOS </tag>
             
             <tag> 输入法 </tag>
             
