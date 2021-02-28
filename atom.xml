@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://imouyang.com/"/>
-  <updated>2021-02-24T17:15:08.974Z</updated>
+  <updated>2021-02-28T13:19:35.781Z</updated>
   <id>https://imouyang.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>伪手写HTML排版公众号文章的几点笔记</title>
+    <link href="https://imouyang.com/wei-shou-xie-html-pai-ban-gong-zhong-hao-wen-zhang-de-ji-dian-bi-ji/"/>
+    <id>https://imouyang.com/wei-shou-xie-html-pai-ban-gong-zhong-hao-wen-zhang-de-ji-dian-bi-ji/</id>
+    <published>2021-02-28T13:18:48.000Z</published>
+    <updated>2021-02-28T13:19:35.781Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;p&gt;继使用 Markdown + MarkHere
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Blog" scheme="https://imouyang.com/categories/Blog/"/>
+    
+    
+      <category term="公众号" scheme="https://imouyang.com/tags/%E5%85%AC%E4%BC%97%E5%8F%B7/"/>
+    
+      <category term="HTML" scheme="https://imouyang.com/tags/HTML/"/>
+    
+  </entry>
   
   <entry>
     <title>碎碎念之你好李焕英</title>
@@ -531,31 +560,6 @@
       <category term="最低工资" scheme="https://imouyang.com/tags/%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B5%84/"/>
     
       <category term="武汉市" scheme="https://imouyang.com/tags/%E6%AD%A6%E6%B1%89%E5%B8%82/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>武汉产假是多久?</title>
-    <link href="https://imouyang.com/wu-han-chan-jia-shi-duo-jiu/"/>
-    <id>https://imouyang.com/wu-han-chan-jia-shi-duo-jiu/</id>
-    <published>2019-03-14T11:43:12.000Z</published>
-    <updated>2020-02-01T08:32:46.712Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;前几天有一位朋友咨询武汉市产假问题，在做了一个简单的搜索后，现在笔记一下。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="法学" scheme="https://imouyang.com/categories/%E6%B3%95%E5%AD%A6/"/>
-    
-    
-      <category term="劳动法" scheme="https://imouyang.com/tags/%E5%8A%B3%E5%8A%A8%E6%B3%95/"/>
-    
-      <category term="产假" scheme="https://imouyang.com/tags/%E4%BA%A7%E5%81%87/"/>
-    
-      <category term="工资" scheme="https://imouyang.com/tags/%E5%B7%A5%E8%B5%84/"/>
     
   </entry>
   
